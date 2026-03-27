@@ -175,6 +175,8 @@ export async function handleCreate(argv) {
 title: Welcome to Quartz
 ---
 
+This is my personal digital garden. A wild garden, loosely tended. There's drafts, ideas, partials, and fragments. Always building in public.
+
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 `,
