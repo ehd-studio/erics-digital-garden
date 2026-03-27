@@ -1,3 +1,7 @@
+---
+title: Hello!
+---
+
 ## What is the Digital Garden?
 
 Coined by Mike Caufield during a keynote speech on building digital spaces, the Digital Garden was a different way of thinking about our online behavior around information. Unlike _digital streams_, _digital garden_s present information in a richly linked landscape that grows slowly over time. Think Instagram or Messenger versus Wikipedia. Gardens emphasize the slow growth of ideas through writing, rewriting, editing, and revising thoughts in public.
