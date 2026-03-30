@@ -4,8 +4,8 @@ Piggy back on WSJ Magazine *Sarah Ball* quotes about changing landscape of onlin
 
 ---
 
+Sarah Ball on video and its future within [[Media Management]]
 
-15:00
 > ‘Are we a fit for TT, Reels. Whats our tone? Are we too slickly produced? Maybe if we are we will seem too inauthentic’ → finding voice for stories/legacy publication
 
 On priorities in digital media future (18:30)
