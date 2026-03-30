@@ -29,3 +29,5 @@ If you see a topic linked like this:
 that topic is navigable and contains its own topic page. In this case, this topic is connecting a note under the 'media/Quotes' subject to the Digital Subject category.
 
 > Home > Digital > seed > Media Management
+
+Backlinks and their associated upstream topics can also be viewed through the 'Graph View' present in the top right of all pages.
