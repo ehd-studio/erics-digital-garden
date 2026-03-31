@@ -1,5 +1,10 @@
-#idea #video
-
+---
+tags:
+  - analysis
+  - digital
+  - video
+  - bud
+---
 Piggy back on WSJ Magazine *Sarah Ball* quotes about changing landscape of online content navigation
 
 ---
