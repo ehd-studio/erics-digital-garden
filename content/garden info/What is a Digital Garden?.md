@@ -1,4 +1,8 @@
-#garden-information #site-nav 
+---
+tags:
+  - garden-information
+  - site-nav
+---
 
 ---
 
