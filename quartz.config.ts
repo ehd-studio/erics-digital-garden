@@ -9,22 +9,23 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "The Digital Garden",
-    pageTitleSuffix: "",
+    pageTitleSuffix: "The Digital Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "ehd-studio.github.io/erics-digital-garden/README",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        title: "Doto",
+        header: "IBM Plex Sans",
+        body: "Libertinus Serif",
         code: "IBM Plex Mono",
       },
       colors: {
