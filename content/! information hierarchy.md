@@ -1,7 +1,6 @@
 ---
 tags:
   - garden-information
-  - site-nav
 ---
 
 
