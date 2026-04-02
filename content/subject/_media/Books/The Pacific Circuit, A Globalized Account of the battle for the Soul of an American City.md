@@ -1,1 +1,8 @@
-by Alexis Madrigal | *In Progress*
+---
+tags:
+  - in-progress
+  - economics
+  - history
+---
+
+by Alexis Madrigal 
