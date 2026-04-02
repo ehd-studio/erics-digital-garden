@@ -3,7 +3,7 @@ tags:
   - in-progress
   - business-strategy
 ---
-by Richard Rumelt 
+*Good Strategy Bad Strategy, The Difference and Why it Matters* by Richard Rumelt 
 
 - Strategy cannot be a useful concept if it becomes a synonym for success
 	- Ambition is not strategy
