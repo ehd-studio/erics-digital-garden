@@ -1,0 +1,7 @@
+- Business Strategy study of the move away from big theatres (AMC, Landmark..) to at home and what the theatre means now across increasingly defined niches
+	- What brings everyone to theatres versus what can sustain non IP heavy movie experience
+- Large IP is needed to drive general audiences to theatres (Mario, Avengers, etc.) or genre specific successes (Horror is much lower budget and higher hit ratio than Action)
+- The theatre experience can be driven by a persons connection to their own 'brand' as a cinephile, but also with what types of people/companies they want to associate with:
+	- Braindead Theatre
+	- Quintin Tarantino's Theatre's
+	- New A24 Rose Ave
