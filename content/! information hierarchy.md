@@ -2,27 +2,27 @@
 tags:
   - garden-information
 ---
-
-
 This section will go into information architecture, detailing vocabulary of navigation, content hierarchy and backlink structure.
 
 ---
 # Navigating the plot
 
 ## Vocabulary
-Subject notes contain three categories to organize the stage of development its currently in:
+The garden contains a selection of categories ('plot subjects') that house notes I am currently investigating/documenting
+Those capitalized without an underscore are the 'work plot subjects' that are formal investigations into work related subjects:
+- **Personal Case Study**: case studies across UX, Graphic Design and Video documenting work process, research and results. Connected directly to my personal portfolio.
+- **Tools**: documenting learnings about the tools of the trade.
+
+Categories with underscores (`_`) are less formal research, ideas and investigations.
+- **curiosity**: subjects not personal, but have some peaked interest and must be structured for further investigation.
+- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, tv, quotes, podcasts, etc.
+- **some-notes**: a journal of ideas/thoughts.
+
+Notes also contain different organizing factors that show what stage of personal development they're in and how well connected to other concepts the notes are:
 
 - 🌱 **seed**: Short, raw ideas or questions that have potential for growth, but are not developed yet. 
 - 🌿/💧 **buds**: growing thoughts with expanded structure and connections to other concepts through backlinks. Needing more research and work to fully mature.
 -  🏕️ **evergreen**: mature and well-linked notes that have reached their maturity for the time being.
-
-If a subject doesn't contain a category, there are no notes currently nested under them. For easier navigation, only categories containing a note will display under a subject.
-
-The garden also contains a couple of sub category folders that begin with an underscore ("`_`"). These categories break off from the plots subjects in form or subject matter:
-
-- **curiosity**: subjects not personal, but have some peaked interest and must be structured for further investigation.
-- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, tv, quotes, podcasts, etc.
-- **some-notes**: a journal of jotted down notes/ideas. 
 ---
 ## Folder Hierarchy
 

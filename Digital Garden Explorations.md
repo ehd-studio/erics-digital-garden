@@ -1,0 +1,31 @@
+- Rewrite the 'Digital Garden' page with your own words (reference the TT video at the beginning of the same folder name)
+
+- Look at 'THE BRILLIANCE!'
+- Breaking down the Fear of God collection with MLB campaign (one of my favorites)
+	- https://calmatic.substack.com/p/did-you-play-baseball
+- Fiesta Fresh Market - Building specific third places anywhere (TT Video)
+- WEB Du Bois Data Visualizations (TT Video)
+- Sound and music is inherently political and a footnote - a deep dive (TT video)
+- Games and why growing up on PacMan influences your growth differently than Fortnite (TT video)
+- Where did our rites of passages go? (TT Video)
+	- 'Crossroads' book
+- The art of "The Hook" (TT Video)
+- Mexico 68 and how system design met historical precedent
+- Vibe Coding and hosting for Free on GitHub Test
+- Building 'Functional Strength' for longterm production
+- Data poisoning and how art is fighting back
+- Design as Language → the language of city entryway gates on my long runs
+    - _Metal Entryway gates as a language →_ Creating a fake language using the metal gates I’ve collected while running around SF. Thought exercise with design language through the metal gate designs as well as language structure
+
+Curiosity
+-  Sea Ranch planting guide and the idea of synegistic native plants
+- Bioacoustics: What monitoring the soundscape of a forest can teach us
+	- [https://e360.yale.edu/features/listening-to-nature-the-emerging-field-of-bioacoustics](https://e360.yale.edu/features/listening-to-nature-the-emerging-field-of-bioacoustics)
+	- [https://thecreativeindependent.com/people/educator-and-technologist-joycelyn-longdon-on-complicating-what-is-normal/](https://thecreativeindependent.com/people/educator-and-technologist-joycelyn-longdon-on-complicating-what-is-normal/)
+	- Do it yourself!
+		- [https://www.openacousticdevices.info/audiomoth](https://www.openacousticdevices.info/audiomoth)
+- Spiderweb Extended Cognition → how spiders show their thoughts in their webs
+	- [https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/](https://www.quantamagazine.org/the-thoughts-of-a-spiderweb-20170523/)
+	- [https://pmc.ncbi.nlm.nih.gov/articles/PMC5394149/](https://pmc.ncbi.nlm.nih.gov/articles/PMC5394149/)
+- Tiles that purify water
+	- https://designwanted.com/indus-algae-tiles-make-rainwater-pure/

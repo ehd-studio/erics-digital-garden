@@ -1,0 +1,3 @@
+- Restructure the 'information architecture' page
+- Figure out TOPIC to study 
+	- Understand what information is stored on live digital garden through rewriting information page
