@@ -1,13 +1,4 @@
----
-tags:
-  - bud
-  - product
-  - ux
-  - research
-  - ux-design
-  - design
----
-
+#bud
 
 ---
 This case study was performed over a 10 week period with a group consisting of [Adeeba Ahmad](https://www.linkedin.com/in/adeebaa/), [Victor Lara](https://www.linkedin.com/in/laravictor/), [Ettie Mikhailova](https://www.linkedin.com/in/liudmila-ettie-mikhailova-90996324b/), and [Eric Drake](https://www.linkedin.com/in/erichdrake/).

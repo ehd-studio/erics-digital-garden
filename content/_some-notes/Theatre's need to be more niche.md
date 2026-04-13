@@ -1,7 +1,4 @@
----
-tags:
-  - seed
----
+#seed 
 
 - Business Strategy study of the move away from big theatres (AMC, Landmark..) to at home and what the theatre means now across increasingly defined niches
 	- What brings everyone to theatres versus what can sustain non IP heavy movie experience
