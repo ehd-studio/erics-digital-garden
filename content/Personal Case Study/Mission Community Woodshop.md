@@ -1,4 +1,7 @@
-#seed 
+---
+tags:
+  - seed
+---
 
 Mission Community Woodshop is a wood working studio based in inner mission of San Francisco. Run by two former teachers, Andrew and Daniel, the studio aims to teach the craft of woodworking and provide workspaces for artisans to utilize.
 

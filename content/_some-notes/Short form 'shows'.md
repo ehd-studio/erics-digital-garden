@@ -1,4 +1,8 @@
-#seed 
+---
+tags:
+  - seed
+---
+
 
 Content that can be repeatable with a certain crowd and genre
 
