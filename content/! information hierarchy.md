@@ -8,31 +8,21 @@ This section will go into information architecture, detailing vocabulary of navi
 # Navigating the plot
 
 ## Vocabulary
-The garden contains a selection of categories ('plot subjects') that house notes I am currently investigating/documenting
-Those capitalized without an underscore are the 'work plot subjects' that are formal investigations into work related subjects:
-- **Personal Case Study**: case studies across UX, Graphic Design and Video documenting work process, research and results. Connected directly to my personal portfolio.
-- **Tools**: documenting learnings about the tools of the trade.
+The garden's layout is governed by an interconnected, dynamic back link structure connecting thoughts, ideas and notes to reference sources. I've split the garden into two plots: *subject documentation* and *referenced notes*.
+- **Subjects** - Researched topics using a structured, Wikipedia-style approach that organizes information through densely interlinked sources and clearly cited references. They are interlinked to *notes* for reference and background.
+	- eg. *Bauhaus*, *Oakland, CA*, *shibori dye*, *Porsche Motors*
+- **Notes** - Documented ideas, reflections, and exploratory thinking around personal interests.
+	*Note categories:*
+	- **case study**: project explorations across UX, Graphic Design and Video documenting work process, research and results. Occasionally connected directly to my personal work portfolio.
+	- **tools**: documenting learnings about the tools of the trade.
+	- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, tv, quotes, podcasts, etc.
+	- **some-notes**: a journal of ideas/thoughts.
 
-Categories with underscores (`_`) are less formal research, ideas and investigations.
-- **curiosity**: subjects not personal, but have some peaked interest and must be structured for further investigation.
-- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, tv, quotes, podcasts, etc.
-- **some-notes**: a journal of ideas/thoughts.
-
-Notes also contain different organizing factors that show what stage of personal development they're in and how well connected to other concepts the notes are:
+*Notes* are structured with organizational markers that indicate both their stage of development and the depth of their interlinking, reinforcing their role within broader *subjects.*
 
 - 🌱 **seed**: Short, raw ideas or questions that have potential for growth, but are not developed yet. 
-- 🌿/💧 **buds**: growing thoughts with expanded structure and connections to other concepts through backlinks. Needing more research and work to fully mature.
+- 🌿/💧 **buds**: growing thoughts with expanded structure and some connections to other concepts through backlinks. Needing more research and work to fully mature.
 -  🏕️ **evergreen**: mature and well-linked notes that have reached their maturity for the time being.
----
-## Folder Hierarchy
-
-- Main Page
-	- Categories
-		- Sub Category
-			- Article
-				- Lead Section
-				- Section 1, Section 2..
-				- References
 
 ---
 ## Backlink Structure

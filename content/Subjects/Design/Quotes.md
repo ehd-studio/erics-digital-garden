@@ -1,7 +1,3 @@
-#quote #design #idea 
-
-
----
 ### Jay Osgerby on Design
 
 > ‘Good Design is Design that listens as much as it talks. It can have multiple interpretations or uses based on the needs of its user’
