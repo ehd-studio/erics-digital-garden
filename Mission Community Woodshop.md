@@ -14,5 +14,7 @@ The studio approached me with the goal of creating new streams of revenue to exp
 ---
 ## Research
 
+### Fundraising Strategy
+
 ---
 ## Initial Pitch

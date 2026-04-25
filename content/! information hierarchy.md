@@ -2,6 +2,8 @@
 tags:
   - garden-information
 ---
+This Digital Garden documents a growing collection of notes connected to my loves of Sports, Fashion, Movies, Media Studies, Design, Horticulture and Culture. It also aims to turn research into more richly linked personal ideas and analysis.
+
 This section will go into information architecture, detailing vocabulary of navigation, content hierarchy and backlink structure.
 
 ---
