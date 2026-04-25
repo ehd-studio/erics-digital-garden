@@ -1,18 +1,17 @@
 ---
 tags:
-  - bud
+  - evergreen
 ---
 **Recently, I came across the 2018 documentary** [**_Rams_**](https://www.hustwit.com/rams) directed by Gary Hustwit, detailing the life and influence of legendary German industrial designer Dieter Rams.
 
-Rams is known for his “less is better” approach and industrial design works with Braun and Vitsoe. Most famously, this approach would go on to influence [Jonathan Ive and the Apple production team’s concepts](https://www.cnn.com/style/article/dieter-rams-film-exhibition-style-intl/index.html) for [Apple products](https://theultralinx.com/2014/03/dieter-rams-inspired-apple-products/) like the original iPod and iPhone. If you want an example (and have an Apple product at hand) just take a look at the calculator app, which takes its design influence from the Ram’s 1977 Braun ET44 model.
+Rams is known for his “less is better” approach and industrial design works with [[Braun]] and [[Vitsoe]]. Most famously, this approach would go on to influence [Jonathan Ive and the Apple production team’s concepts](https://www.cnn.com/style/article/dieter-rams-film-exhibition-style-intl/index.html) for [Apple products](https://theultralinx.com/2014/03/dieter-rams-inspired-apple-products/) like the original iPod and iPhone. If you want an example (and have an Apple product at hand) just take a look at the calculator app, which takes its design influence from the Ram’s 1977 Braun ET44 model.
 
 ![iOS 1 iPhone calculator design versus the 1977 Braun ET44](https://miro.medium.com/v2/resize:fit:1000/1*B-Si43eiDgRwi2wcvVKFTg.jpeg)
-
 iOS 1 iPhone calculator vs. 1977 Braun ET44
 
-Anyone who can win over Steve Jobs with their work is clearly doing something right and Dieter was not just impressing others with the design of his calculators. He gained a reputation as a design chameleon who could take anything from a chair to a tape recording system and make something great.
+Anyone who can win over Steve Jobs with their work is clearly doing something right an [[Dieter Rams]]was not just impressing others with the design of his calculators. He gained a reputation as a design chameleon who could take anything from a chair to a tape recording system and make something great.
 
-In 1976, Rams gave a talk in New York about his projects at Vitsoe and his thought process behind his work. He described what he called “[The 10 Principles of Good Design](https://www.vitsoe.com/us/about/good-design)”, which was a method for organizing thoughts when he designed. The list, safe to say, was an immediate hit with design thinkers. Not only has it been used as a process compass for industrial designers, but now has proliferated to other design disciplines from graphic design to UX. Here’s the list:
+In 1976, Rams gave a talk in New York about his projects at [[Vitsoe]] and his thought process behind his work. He described what he called “[The 10 Principles of Good Design](https://www.vitsoe.com/us/about/good-design)”, which was a method for organizing thoughts when he designed. The list, safe to say, was an immediate hit with design thinkers. Not only has it been used as a process compass for industrial designers, but now has proliferated to other design disciplines from graphic design to UX. Here’s the list:
 
 Press enter or click to view image in full size
 
@@ -30,7 +29,7 @@ Now after a little extra research and a couple days of reflection, I understand 
 
 ## What is Honesty in Design?
 
-In the doc, Mark Adams, Managing Director at Vitsoe, gives Dieter, a close friend and co-worker, a tour of their newly constructed headquarters in Royal Leamington Spa, UK. As the camera tracks around the space, the first thing one may notice is the shocking lack of interior decoration or finish. As a world-renown furniture design company, you would expect Vistoe’s office space to be a tour de force in interior design. Instead, the building displays baron walls with exposed electrical wiring, minimalist shelving, exposed metal crossbeams, and HUGE roof skylights.
+In the doc, Mark Adams, Managing Director at [[Vitsoe]], gives Dieter, a close friend and co-worker, a tour of their newly constructed headquarters in Royal Leamington Spa, UK. As the camera tracks around the space, the first thing one may notice is the shocking lack of interior decoration or finish. As a world-renown furniture design company, you would expect Vistoe’s office space to be a tour de force in interior design. Instead, the building displays baron walls with exposed electrical wiring, minimalist shelving, exposed metal crossbeams, and HUGE roof skylights.
 
 Press enter or click to view image in full size
 
