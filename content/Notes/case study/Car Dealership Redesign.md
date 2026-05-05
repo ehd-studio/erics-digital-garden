@@ -23,7 +23,7 @@ Press enter or click to view image in full size
 
 ![User persona identity graphics based on our interviews. Consists of images, needs, goals, frustrations, brand alignment and moodboard. These resources would be important as references when needing to realign with our user’s pain points, goals and characteristics.](https://miro.medium.com/v2/resize:fit:700/1*l_kvrxf6DDZbde4cTXAGig.png)
 
-User personas based on our first round of interviews and separated by age range. Mapping exercises like these are essential for refamiliarizing and realigning with our user’s pain points, goals and overall characteristics.
+[[User Persona]] based on our first round of interviews and separated by age range. Mapping exercises like these are essential for refamiliarizing and realigning with our user’s pain points, goals and overall characteristics.
 
 ### Roadblock 1: Converging too quickly
 
@@ -31,7 +31,7 @@ After conducting our initial interviews, the group began synthesizing responses 
 
 ### Gathering more information and mapping online findings
 
-Using our preparatory research, we created a System Map to embody the relationship of all stakeholders in our projects scope. We also created an initial dealership System Blueprint based on the gathered research that aimed to map the relationship not only of customer facing interactions, but of back end processes and the stakeholders involved at each step. The goal for both exercises were to understand the current state of the dealership system and provide a reference as we continued to learn. We also conducted secondary research online focused on understanding the current car market, the customer buying experience, and devise a competitive analysis of other adjacent companies. These were our main takeaways from the quantitative stage of research:
+Using our preparatory research, we created a [[System Map]] to embody the relationship of all stakeholders in our projects scope. We also created an initial dealership System Blueprint based on the gathered research that aimed to map the relationship not only of customer facing interactions, but of back end processes and the stakeholders involved at each step. The goal for both exercises were to understand the current state of the dealership system and provide a reference as we continued to learn. We also conducted secondary research online focused on understanding the current car market, the customer buying experience, and devise a competitive analysis of other adjacent companies. These were our main takeaways from the quantitative stage of research:
 
 - There is a growing desire to purchase a car, but there **_isn’t a sufficient supply._**
 - Current buyers are **_paying significantly more_** than average for new/used cars.
@@ -43,7 +43,7 @@ Press enter or click to view image in full size
 
 ![System map detailing the different stakeholders and mutual links (materials, energy, information, money, documents..) occurring around the customer purchasing process. The map helped us identify what exchange pathways we would need to ideate for down the line.](https://miro.medium.com/v2/resize:fit:700/1*pnTo67AcJLiEStnqsUXLDg.png)
 
-System Map detailing the different stakeholders and the mutual links (materials, energy, information, money, documents..) occurring around the customer purchasing process. The research surrounding this model was helpful in informing our group on the current state of the dealership system and the stakeholders our primary demographics will be touching base with.
+[[System Map]] detailing the different stakeholders and the mutual links (materials, energy, information, money, documents..) occurring around the customer purchasing process. The research surrounding this model was helpful in informing our group on the current state of the dealership system and the stakeholders our primary demographics will be touching base with.
 
 ## 2. Defining the issue(s) to address
 
@@ -205,3 +205,9 @@ With our first prototype complete, we would also like to circle back and test ou
 ### Focusing more heavily on security
 
 We laid the foundation for our profile and documentation system, but have not done enough research into how we can provide the best security options for our user base’s information. Exploring how tools such as 2-factor, encryption and microcopy can positively effect user anxiety over sharing sensitive documents is a must moving forward.
+
+---
+### Related
+[[System Map]]
+[[User Persona]]
+[[Prototyping]]

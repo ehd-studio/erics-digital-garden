@@ -13,8 +13,6 @@ Anyone who can win over Steve Jobs with their work is clearly doing something ri
 
 In 1976, Rams gave a talk in New York about his projects at [[Vitsoe]] and his thought process behind his work. He described what he called “[The 10 Principles of Good Design](https://www.vitsoe.com/us/about/good-design)”, which was a method for organizing thoughts when he designed. The list, safe to say, was an immediate hit with design thinkers. Not only has it been used as a process compass for industrial designers, but now has proliferated to other design disciplines from graphic design to UX. Here’s the list:
 
-Press enter or click to view image in full size
-
 ![](https://miro.medium.com/v2/resize:fit:1400/1*eCToxIsdnrCNocyQsr8kjg.png)
 
 Dieter Rams “10 Principles of Good Design”
@@ -31,8 +29,6 @@ Now after a little extra research and a couple days of reflection, I understand 
 
 In the doc, Mark Adams, Managing Director at [[Vitsoe]], gives Dieter, a close friend and co-worker, a tour of their newly constructed headquarters in Royal Leamington Spa, UK. As the camera tracks around the space, the first thing one may notice is the shocking lack of interior decoration or finish. As a world-renown furniture design company, you would expect Vistoe’s office space to be a tour de force in interior design. Instead, the building displays baron walls with exposed electrical wiring, minimalist shelving, exposed metal crossbeams, and HUGE roof skylights.
 
-Press enter or click to view image in full size
-
 ![Vitsoe Main Warehouse. The space is largely open with the exception of a couple tables, boxes and large skylights on the roof. Photo by Dirk Linder.](https://miro.medium.com/v2/resize:fit:1400/1*JJ9wlMX2vbjSPIEEzSRccQ.jpeg)
 
 Photo by Dirk Linder. [Source](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/)
@@ -40,8 +36,6 @@ Photo by Dirk Linder. [Source](https://www.dezeen.com/2017/11/12/vitsoe-intenti
 Though not expected, it makes a lot more sense when understanding Adams’ inspiration and connection with Rams. These details (or maybe lack thereof) were carefully taken by Adams to put Deiter’s 10 principles into practice and on display, with honest design being prominently featured.
 
 [Describing the space, Adams emphasized transparency in presentation, which allowed us to witness the craftsmanship rather than hide it like other buildings.](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/) The walls were left intentionally open, showcasing the high-performance beech laminate-veneer lumber supporting the building. The wires are carefully organized like a highway as they cascade over the warehouse walls, exhibiting the work put into [knolling](https://www.wdc-creative.com/blog/things-organised-neatly#:~:text=Definition%3A%20'Knolling%20is%20the%20process,'&text=It%20came%20about%20as%20Gehry,for%20Florence%20Knoll's%20angular%20furniture.) utilities for the headquarters. The shelves are simple but allow for extreme customization for worker/visitor needs.
-
-Press enter or click to view image in full size
 
 ![Vitsoe co-working space. There is a customized rack holding shoes, jackets and other accessories next to an electric circuit board with wires streaking up the wall. There is also an improvised bike rack with bikes hanging from the wall. The walls are made completely of wood. Photo by Dirk Linder.](https://miro.medium.com/v2/resize:fit:1400/1*zy9r50NnzXEAJa2B4KXEfQ.jpeg)
 
@@ -94,3 +88,10 @@ Adams decision to leave the Vitsoe HQ unfinished is a strategy for staying adapt
 ==Honesty should always be at the center of your work and must be a guiding question as you continue to build around your changing product goals.==
 
 There is immense value in user trust and you will need to continue to prove why you are deserving of it.
+
+---
+### Related
+[[Braun]]
+[[Vitsoe]]
+[[Dieter Rams]]
+[[Design Quotes]]
