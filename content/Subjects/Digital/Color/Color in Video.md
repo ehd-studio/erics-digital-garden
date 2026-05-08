@@ -1,9 +1,9 @@
 ## The Basics
-[[content/Subjects/Digital/Color/Color Management]] is the practice of ensuring **consistent and accurate color representation** across a variety of devices, such as cameras, monitors, and final delivery screens. It involves translating input color data (camera, print, etc.), moving it into a workflow for grading, and finally converting it into the proper output color space. The goal is to match the original footage as closely as possible and create a space where adjustments behave predictably across devices.
+[[Color Management]] is the practice of ensuring **consistent and accurate color representation** across a variety of devices, such as cameras, monitors, and final delivery screens. It involves translating input color data (camera, print, etc.), moving it into a workflow for grading, and finally converting it into the proper output color space. The goal is to match the original footage as closely as possible and create a space where adjustments behave predictably across devices.
 
-[[content/Subjects/Digital/Color/Color Correction]] is the initial step focused on *accuracy and realism*. You are trying to bring raw footage back to an equilibrium of reality prior to adding effects. This stage involves normalizing lighting issues, white balance and exposure to ensure the image looks natural. 
+[[Color Correction]] is the initial step focused on *accuracy and realism*. You are trying to bring raw footage back to an equilibrium of reality prior to adding effects. This stage involves normalizing lighting issues, white balance and exposure to ensure the image looks natural. 
 
-[[content/Subjects/Digital/Color/Color Grading]] is the more when you can apply your creative input towards video color. This phase is focused on *tones, styles and mood* to evoke emotions or achieve a certain type of atmosphere. This is where you can create a unique, recognizable look that supports the narrative.
+[[Color Grading]] is the more when you can apply your creative input towards video color. This phase is focused on *tones, styles and mood* to evoke emotions or achieve a certain type of atmosphere. This is where you can create a unique, recognizable look that supports the narrative.
 
 ## Terminology/Concepts
 

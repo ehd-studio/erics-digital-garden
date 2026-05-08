@@ -1,11 +1,11 @@
 **Color management** is the practice of ensuring **consistent and accurate color representation** across a variety of devices, such as cameras, monitors, and final delivery screens. It involves translating input color data (camera, print, etc.), moving it into a workflow for grading, and finally converting it into the proper output color space. The goal is to match the original footage as closely as possible and create a space where adjustments behave predictably across devices.
 
-Different devices have unique color capabilities and characteristics commonly referred to as the [[content/Subjects/Digital/Color/Color Gamut]]. As a result, images will appear drastically different without a controlled system to translate these colors. The core of this practice involves using [[Color Profiles]] that standardize a devices color behavior. This helps to maintain a creators artistic intent from the edit bay to a users device. 
+Different devices have unique color capabilities and characteristics commonly referred to as the [[Color Gamut]]. As a result, images will appear drastically different without a controlled system to translate these colors. The core of this practice involves using [[Color Profiles]] that standardize a devices color behavior. This helps to maintain a creators artistic intent from the edit bay to a users device. 
 
 ## Process
 The color management process follows a stepwise progression to maintain image integrity:
 ### Hardware Characterization
-Before any digital adjustments are made, physical hardware must be addressed. You must decide on your color profile for in camera data. Typical formats include Rec.709 for smaller color range and Log/RAW for heavier, more flexible range. **Characterization** involves measuring a device's color response to create an [[content/Subjects/Digital/Color/ICC profile]] (color profile). 
+Before any digital adjustments are made, physical hardware must be addressed. You must decide on your color profile for in camera data. Typical formats include Rec.709 for smaller color range and Log/RAW for heavier, more flexible range. **Characterization** involves measuring a device's color response to create an [[ICC profile]] (color profile). 
 
 ### Calibration
 **Calibration** is the subsequent adjustment of the device to match a common standard, such as Rec.709 for broadcast or sRGB for web. For professional results, colorists rely on **calibrated monitors** to ensure what they see on screen is technically accurate.
@@ -17,7 +17,7 @@ The workflow begins by correctly identifying the **Input Color Space** for every
 Instead of grading in a limited display format, the footage is transformed into a large intermediate *"Working Color Space"*. This is often a scene-referred workflow, such as DaVinci Wide Gamut or ACES, which preserves the high dynamic range and wide color gamut captured by the camera sensor. Grading in this large space provides maximum flexibility and prevents technical issues like clipping or oversaturation.
 
 ### Tone Mapping and Gamut Compression
-Because camera sensors capture more detail than a standard screen can display, [[Tone Mapping]] and [[Gamut Compression]]are applied. These algorithms compress high-range highlight and shadow detail into the viewable range of the target display without losing the "feel" of the original image. This can be applied upon input (to simplify the workflow) or upon output (to maintain the highest quality during the grade).
+Because camera sensors capture more detail than a standard screen can display, [[Tone Mapping]] and [[Gamut Compression]] are applied. These algorithms compress high-range highlight and shadow detail into the viewable range of the target display without losing the "feel" of the original image. This can be applied upon input (to simplify the workflow) or upon output (to maintain the highest quality during the grade).
 
 ### Output and Monitoring Transformation
 The sequence is then converted to an Output Color Space specifically for the display being used (e.g., Rec.709 Gamma 2.4 for a broadcast monitor or Gamma 2.2 for a computer screen). This transformation ensures that the editor's monitoring environment accurately reflects the final delivery standard.
