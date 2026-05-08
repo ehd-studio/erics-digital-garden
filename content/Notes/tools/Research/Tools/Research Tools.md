@@ -2,7 +2,6 @@
 tags:
   - evergreen
 ---
-
 - In a search engine, search your topic of interest and syllabus → [https://syllabusproject.org/](https://syllabusproject.org/)
 
 ## Methods

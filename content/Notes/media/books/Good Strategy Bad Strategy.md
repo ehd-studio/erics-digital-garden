@@ -64,4 +64,12 @@ tags:
 #### Walmart's advantage
 - Big box stores are thought to need a visiting population of over 100,000 people to keep overhead under control
 	- Economies at scale - unit costs of production come down when the size of operations increases
-- Walmart's system relies on a digital system
+- Walmart's system relies on the grid of stores as a digital ecosystem NOT the individual store model
+- Stronger negotiation and meeting of demand when stores can communicate with each other on what sells
+- *Supply chain management* - the centralized management and optimization of the entire flow of goods, services, data, and finances.
+
+### Soviet Union and the Cold War
+- US engagement with Soviet Union was largely reactionary
+	- Congress would hear about issues as they had already occurred and hurried a budget to fill the gap
+- *Andy Marshall* changed perspective to emphasize engaging in areas of strength (technical development) to make Soviet Union chase away from what they did best
+- *Understand your strengths and utilize them to separate from the competition.*

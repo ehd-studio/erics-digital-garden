@@ -1,3 +1,4 @@
-- Restructure the 'information architecture' page
-- Figure out TOPIC to study 
-	- Understand what information is stored on live digital garden through rewriting information page
+- Update Github to push repo
+- Exercise deep research
+	- Exercise routine buildout
+- Post Production Color Workflow
