@@ -1,7 +1,5 @@
 ---
 tags:
-  - in-progress
-  - business-strategy
 ---
 *Good Strategy Bad Strategy, The Difference and Why it Matters* by Richard Rumelt 
 

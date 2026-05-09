@@ -92,7 +92,7 @@ A **microcycle** is typically one week of consistent training demands intended t
 - **Recovery:** Allow **48–72 hours of rest** before training the same muscle group again to allow for tissue repair and energy replenishment.
 -  **Training Frequency Rule:** Research suggests training each major muscle group **at least twice weekly** for optimal growth and strength.
 
-### **The Monthly Structure (The Mesocycle)**
+### The Monthly Structure (The Mesocycle)
 
 A **mesocycle** (usually **2–4 weeks**) is where you assign and achieve specific goals through **progressive overload**.
 
@@ -101,7 +101,7 @@ A **mesocycle** (usually **2–4 weeks**) is where you assign and achieve specif
 - **The 2-for-2 Rule:** If you can perform **two extra repetitions** beyond your target for **two consecutive workouts**, it is time to increase the load.
 - **Deload Week:** Every 4–8 weeks, schedule a **planned recovery week** at 40–60% intensity to allow fatigue to dissipate and hormones to normalize.
 
-### **The Yearly Structure (The Annual Plan/Macrocycle)**
+### The Yearly Structure (The Annual Plan/Macrocycle)
 
 The **macrocycle** links your preparation, competition, and peaking phases into a cohesive long-term plan.
 
@@ -109,5 +109,3 @@ The **macrocycle** links your preparation, competition, and peaking phases into 
 - **Quarterly Focus:** Divide the year into quarters with specific themes (e.g., Q1 for building a hypertrophy base, Q2 for lockout power, Q3 for explosive drive).
 - **Variety:** Rotate specific exercises or movement patterns every **4–6 weeks** to keep the nervous system challenged and prevent stagnation.
 - **Sustainability:** Your yearly plan must match your lifestyle; a "good enough" routine you can follow for 12 months is superior to a "perfect" 6-day split that leads to burnout in 6 weeks.
-
-Would you like me to create a 12-week sample schedule that demonstrates how to transition through these phases?

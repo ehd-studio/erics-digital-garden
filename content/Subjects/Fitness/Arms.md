@@ -13,7 +13,7 @@ The upper arm is divided by intermuscular septa into two main compartments:
     - **Triceps Brachii:** A three-headed muscle (long, lateral, and medial heads) that serves as the **principal extensor of the elbow**. The long head also assists in stabilizing the shoulder joint and extending the arm at the shoulder.
     - **Anconeus:** A small triangular muscle at the elbow that assists the triceps in **extension** and **stabilizes the ulna** during movement.
 
-#### **2. Forearm (Antebrachium)**
+#### 2. Forearm (Antebrachium)
 
 The forearm contains numerous muscles that manage complex movements of the wrist and fingers.
 

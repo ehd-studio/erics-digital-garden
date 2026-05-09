@@ -71,14 +71,15 @@ This is what you're *Color* folder should be structured like in your Project Dri
 ---
 ## Production
 On set color is primarily concerned with executing the vision outlined in the production look book and technical logging for editing pass off.
-
 ### On Set Capture
 You should have your settings pre planned with your cinematographer *before* showing up on set. With preplanning you should go over a couple of things including:
 1. **Lighting/Art Direction**: Getting on the same page by going over/sharing documents showing tonality inspiration.
 2. **Capture Settings**
 	1. **Aspect Ratio**: Across what formats are you intending to export the project at (social only, YouTube, Television)?
-	2. [[Codecs]]: Go over what type of video Codec you'll want to capture with. RAW formats are typical to maintain the most amount of flexibility in the edit.
-	3. **Bit Depth**: Usually 10 or 12 bits provides the correct sharpness/tone and is standard with most cinematography
+	2. **Footage Format**: Each format will allow (or disallow) for certain color and image adjustments to be applied. Become aquainted with whatever format is available and what adjustments in your workflow will need to be applied.
+		- **Uncompressed raw** is a MASSIVE data file, but allows for the most flexibility in edit. Not recommended for the edit. ARRI RAW is an example.
+		- **Compressed raw** is exactly how it sounds, a compressed version of the raw file. Double check Video [[Codecs]] for specifications on how file metadata tagging works for color.
+		- **Color Space Codec** compresses data to save space while losing color editing ability.
 3. **Calibrations**: If you plan to use In-Cam Reference points like an on set monitor, you will need to specify a reference white point so that the background and subject lighting are accurately represented and consistent. A **reference white point/balance** is a set of chromaticity coordinates used to determine the color 'white' in image capture, encoding or display.
 
 ### Post Production Handoff
@@ -89,12 +90,13 @@ The start of the post production color workflow begins with tagging. Cameras wil
 Its important to sustain a color management pipeline which can intake your original intent across different monitors and delivery formats.
 #### Hardware Calibration
 Before beginning grading, check your display as it should be calibrated to the settings you used. **Colorimeters** can help to match standards if needed.
+
+https://www.youtube.com/watch?v=60_X5F3eltY&t=6s
 #### Working Color Space
 
-
+**LOG and LUTs**
+[[Codecs]]?
 #### Tone Mapping and Gamut Compression
 #### Outputs 
 **Output Color Space**
 The final file must be exported with the correct [[content/Subjects/Digital/NCLC Tags|NCLC Tags]] to accurately display color primaries and gamma.
-
----

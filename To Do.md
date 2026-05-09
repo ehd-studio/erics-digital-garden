@@ -1,4 +1,6 @@
-- Update Github to push repo
+- Update Github Pinned project AND descri
 - Exercise deep research
 	- Exercise routine buildout
-- Post Production Color Workflow
+- Color Workflow
+	- Post Production Handoff
+	- Post Production
