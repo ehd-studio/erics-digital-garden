@@ -2,7 +2,6 @@
 tags:
   - seed
 ---
-
 A film look book is a vital pre-production tool that establishes a project's visual identity, guiding the crew on the intended tone and style before production begins. Included within the look book are the following:
 ##### I. Fundamental Project Information
 An effective look book begins by grounding the visual style in the story’s context. This section provides the narrative buy in for potential investors and team members.

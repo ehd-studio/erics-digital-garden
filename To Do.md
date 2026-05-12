@@ -1,6 +1,0 @@
-- Update Github Pinned project AND descri
-- Exercise deep research
-	- Exercise routine buildout
-- Color Workflow
-	- Post Production Handoff
-	- Post Production

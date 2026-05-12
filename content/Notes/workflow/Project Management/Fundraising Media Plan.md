@@ -1,3 +1,7 @@
+---
+tags:
+  - seed
+---
 Fundraiser planning documents serve the purpose of structuring an executable strategy for outreach and intake of donations for an organization. Its core purpose is to define *how* funds will be raise, *who* are the key stakeholders, and *what* defines success. Writing out these key characteristics helps us all align on a clear direction to head. For my purposes as a media manager, these questions define how media is organized within a defined business strategy. This note aims to define a general overview of key clarifications, checkpoints and structure for a fundraising and the media strategy that can support it.
 
 ---

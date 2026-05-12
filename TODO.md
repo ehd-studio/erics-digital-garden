@@ -1,0 +1,9 @@
+- Update Github Pinned project AND descri
+- Fundraising Plan Page
+- Color Workflow
+	- Post Production Handoff
+	- Post Production
+- Financial Aid
+- [Fellowship Application](https://docs.google.com/forms/d/e/1FAIpQLSew2tO9UN4xmQvQH56Ng_4wiOW7meU8gbA-ilEjBHgWNjrMYw/viewform)
+	- Cutoff is May 31st
+- Change highlight CSS (doesn't work on light mode)
