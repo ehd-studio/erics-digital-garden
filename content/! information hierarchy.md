@@ -2,7 +2,7 @@
 tags:
   - garden-information
 ---
-This Digital Garden documents a growing collection of notes connected to my loves of Sports, Fashion, Movies, Media Studies, Design, Horticulture and Culture. It also aims to turn research into more richly linked personal ideas and analysis.
+This Digital Garden documents a growing collection of notes connected to my loves of Sports, Fashion, Design, Media, and Culture. It also aims to turn research into more richly linked personal ideas and analysis.
 
 This section will go into information architecture, detailing vocabulary of navigation, content hierarchy and backlink structure.
 
@@ -12,12 +12,12 @@ This section will go into information architecture, detailing vocabulary of navi
 ## Vocabulary
 The garden's layout is governed by an interconnected, dynamic back link structure connecting thoughts, ideas and notes to reference sources. I've split the garden into two plots: *subject documentation* and *referenced notes*.
 - **Subjects** - Researched topics using a structured, Wikipedia-style approach that organizes information through densely interlinked sources and clearly cited references. They are interlinked to *notes* for reference and background.
-	- eg. *Bauhaus*, *Oakland, CA*, *shibori dye*, *Porsche Motors*
+	- eg. *Bauhaus*, *Oakland*, *shibori dye*, *Porsche Motors*
 - **Notes** - Documented ideas, reflections, and exploratory thinking around personal interests.
 	*Note categories:*
 	- **case study**: project explorations across UX, Graphic Design and Video documenting work process, research and results. Occasionally connected directly to my personal work portfolio.
-	- **tools**: documenting learnings about the tools of the trade.
-	- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, tv, quotes, podcasts, etc.
+	- **workflow**: documenting learnings about the tools of the trade.
+	- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, music.
 	- **some-notes**: a journal of ideas/thoughts.
 
 *Notes* are structured with organizational markers that indicate both their stage of development and the depth of their interlinking, reinforcing their role within broader *subjects.*
@@ -33,8 +33,8 @@ If you see a topic linked like this:
 
 > "Sarah Ball on video and its future within [[Media Management]]"
 
-that topic is navigable and contains its own topic page. In this case, this topic is connecting a note under the 'media/Quotes' subject to the Digital Subject category.
+that topic is navigable and contains its own topic page. In this case, this topic is connecting a note under the 'Digital/Media Management' subject to the note.
 
-> Home > Analysis > Media Management
+> Home > Subjects > Digital > Media Management
 
 Backlinks and their associated upstream topics can also be viewed through the 'Graph View' present in the top right of all pages.
