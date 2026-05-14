@@ -1,14 +1,20 @@
-- Update Github Pinned project AND descri
-- Fundraising Plan Page overview
-- Watch Tim and Eric
+#seed 
+- Fundraising Plan Pitch Deck
+- DaVinci Resolve Workflow
 - Color Workflow
 	- Post Production Handoff
 	- Post Production
+- Leg Day Links
+
+- ORDER NEW VENTURE CARD
+- Start on Nora Hiking with friends
+- Update Github Pinned project AND description
+- Add letters of rec to repository
+
 - Financial Aid
 - [Fellowship Application](https://docs.google.com/forms/d/e/1FAIpQLSew2tO9UN4xmQvQH56Ng_4wiOW7meU8gbA-ilEjBHgWNjrMYw/viewform)
 	- Cutoff is May 31st
 - Change highlight CSS (doesn't work on light mode)
-- Leg Day Links
 
 - Creative Director Role description
 	- https://business.linkedin.com/hire/resources/how-to-hire-guides/creative-director-job-description
