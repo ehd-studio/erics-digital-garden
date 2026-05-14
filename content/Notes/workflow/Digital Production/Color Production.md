@@ -99,4 +99,4 @@ https://www.youtube.com/watch?v=60_X5F3eltY&t=6s
 #### Tone Mapping and Gamut Compression
 #### Outputs 
 **Output Color Space**
-The final file must be exported with the correct [[content/Subjects/Digital/NCLC Tags|NCLC Tags]] to accurately display color primaries and gamma.
+The final file must be exported with the correct [[NCLC Tags|NCLC Tags]] to accurately display color primaries and gamma.
