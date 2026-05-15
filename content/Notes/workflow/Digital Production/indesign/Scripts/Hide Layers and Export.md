@@ -1,4 +1,20 @@
-
+This script will identify folders across multiple InDesign files with included `var` values and turn them off before exporting.
+### How to use
+- Create/export a new Extended Script file in VS Code
+	- Identify what layers you want to hide and substitute them with the `layerName` variable in this block
+	```
+	try {  
+            doNotPrintLayer = doc.layers.item(layerName);  
+            if (doNotPrintLayer.isValid) {  
+                originalVisibility = doNotPrintLayer.visible;  
+                doNotPrintLayer.visible = false;  
+            }  
+	```
+- Drop script into InDesign `User/Scripts` Folder
+- Create local folders for INDD files you want to run script on and where exported files can land.
+- Run script
+	- You will be prompted to select INDD files to export and where to drop exported JPG files
+---
 ```
 function Main() {  
     // Ask user to select multiple InDesign files  
