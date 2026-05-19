@@ -1,14 +1,17 @@
 #seed 
+**All Day**
+- Adobe Scripting
+
+**After Work**
 - Fundraising Plan Pitch Deck
 - DaVinci Resolve Workflow
+- Content Rhythm writing
+- Start on Nora Hiking with friends
 - Color Workflow
 	- Post Production Handoff
 	- Post Production
-- Leg Day Links
-- Adobe Scripting
 
 - ORDER NEW VENTURE CARD
-- Start on Nora Hiking with friends
 - Update Github Pinned project AND description
 - Add letters of rec to repository
 

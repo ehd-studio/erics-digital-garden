@@ -4,7 +4,7 @@ tags:
 ---
 Adobe scripting is a method of programmatically controlling and automating functions within Adobe applications, such as InDesign and Illustrator, by manipulating their Document Object Model (DOM). By transitioning from manual desktop publishing to a data-driven approach, scripting allows professionals to execute repetitive tasks at a massive scale, significantly saving time, boosting productivity, and reducing human error.
 
-## Scripting Frameworks
+## Scripting Languages
 Adobe provides several distinct extensibility frameworks to meet different development needs:
 ### [[Extend Script]]
 Adobe's legacy JavaScript-based language (ECMAScript 3). It is highly effective for automating one-off tasks, batch processing, and directly accessing the application DOM.

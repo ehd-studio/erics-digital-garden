@@ -41,12 +41,17 @@ Rotate exercises to target different angles and prevent plateaus.
 	1. Dips or Overhead Triceps Extensions
 Recovery: [[Sauna]]: 10-15 minutes, Cool down 10-15 + electrolytes
 #### Lower Body B (Hinge, Legs, Core) - Friday
-1. **Hinge:** [[Barbell Deadlifts]] – 3–5 sets of 1–6 reps. 
+1. **Hinge:** 3–5 sets of 1–6 reps. 
+	-  [[Barbell Deadlifts]] 
 	- *Keep in mind deadlift [progressions](https://blog.warmbody-coldmind.com/guides/deadlift-progression/).* Work from the ground up slowly to avoid injury
-2. **Legs (Unilateral):** [[Dumbbell Lunges]] – 3 sets of 8–10 reps per leg.
-3. **Hamstrings:** **Leg Curls** – 3 sets of 10–12 reps.
-4. **Calves:** **Seated or Calf Press** – 3–4 sets of 12–15 reps.
-5. **Core:** **Hanging Leg Raises or Heel Touches** – 3 sets of 12–15 reps.
+2. **Legs (Unilateral):** 3 sets of 8–10 reps per leg.
+	- [Dumbell Lunges](https://www.muscleandstrength.com/exercises/dumbbell-lunge.html)
+3. **Hamstrings:** 3 sets of 10–12 reps.
+	- **Leg Curls**
+4. **Calves:** 3–4 sets of 12–15 reps.
+	- **Seated or Calf Press**
+5. **Core:** 3 sets of 12–15 reps.
+	- **Hanging Leg Raises or Heel Touches** – 
 Recovery: [[Sauna]]: 10-15 minutes, Cool down 10-15 + electrolytes
 
 ---

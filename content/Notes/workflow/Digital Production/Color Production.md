@@ -90,13 +90,24 @@ The start of the post production color workflow begins with tagging. Cameras wil
 Its important to sustain a color management pipeline which can intake your original intent across different monitors and delivery formats.
 #### Hardware Calibration
 Before beginning grading, check your display as it should be calibrated to the settings you used. **Colorimeters** can help to match standards if needed.
+### Workflow
+#### 1. Normalization/Correction 
+First step is to set up your [[Color Management]] Workspace. This is where you can organize footage and establish your framework for adjusting across shots.
+If you shot in Log/RAW, you will need to map this data into a *viewable working colorspace*. You can do this by applying an Input Device Transform (IDT), a Color Space Transform (CST), or a technical LUT from the camera manufacturer. This step restores natural contrast and saturation, giving you a clean, display-referred image to work with. You will also need convert to a standard viewing color space like Rec. 709. Reference the [[Color Gamut]] page for understanding on what color space must be utilized. 
+#### 2. Primary Color Correction
+This step is focused on global adjustments to create a neutral baseline.
+1. **Establish a Hero Shot:** Pick one wide or medium-wide shot that is highly representative of the scene to act as your reference.
+2. **Balance Exposure and Color:** Rely on your video scopes rather than your eyes. Use the Waveform monitor to set your black and white levels, ensuring your exposure utilizes the full dynamic range without "crushing" the shadows or "clipping" the highlights. Next, use the RGB Parade to neutralize any unwanted color casts and achieve a perfect white balance.
+3. **Shot Matching:** Once your hero shot is perfectly balanced, manually adjust all other clips in the scene so their brightness and color match the hero shot, creating seamless visual continuity.
+#### 3. Secondary Color Correction
+After global balancing, you need to address specific areas that primary correction won't fix.
+1. **Targeted Adjustments**: Use HSL qualifiers (to isolate specific hues, like an overly vibrant red t-shirt) or power windows/masks (to isolate physical areas, like a blown-out window in the background).
+2. **Skin Tone Protection:** A critical part of secondary correction is refining skin tones. You can use qualifiers to isolate actors' faces and check them against the "flesh line" on the Vectorscope to ensure they look human and natural, regardless of the lighting conditions.
+#### 4. Color Grading
+Apply any LUTs, shift color palettes or adjust contrast curves based on direction established in Color Palette pitch. This is done post "neutralization" to ensure styling reacts consistently across shots and doesn't exacerbate any underlying technical flaws.
+#### 5. Final Export
+The final file must be exported with the correct [[NCLC Tags|NCLC Tags]] to accurately display color primaries and gamma. Add an Output Device Transform (ODT) or a final CST to convert your working color space into the exact delivery space required by your platform (e.g., Rec. 709 for web/social media, or Rec. 2100 PQ for HDR televisions).
 
-https://www.youtube.com/watch?v=60_X5F3eltY&t=6s
-#### Working Color Space
-
-**LOG and LUTs**
-[[Codecs]]?
 #### Tone Mapping and Gamut Compression
-#### Outputs 
-**Output Color Space**
-The final file must be exported with the correct [[NCLC Tags|NCLC Tags]] to accurately display color primaries and gamma.
+
+
