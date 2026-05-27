@@ -6,7 +6,7 @@ What makes someone sit down to watch something? I came across a conversation wit
 
 >"Everything is moving towards media that can be consumed through eyes and ears while doing something else. There needs to be value add, it needs to be produced to a large extent to make someone sit down and watch. I think passive video is very undervalued. Where you scroll through static media and then pass through a beautifully subtle video."
 
-Value adds on video content continues to 
+Sarah's point gets at a larger picture idea of how today's culture moves. It ebbs and it flows, but it does so at a break neck speed where culture setting moments can be few and far between.
 ## Programming and the Televised Event
 How programming created large scale events
 ## The Algorithm
