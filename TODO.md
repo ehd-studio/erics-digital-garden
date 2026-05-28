@@ -1,16 +1,14 @@
-#seed 
-**All Day**
-- Adobe Scripting
-
-**After Work**
-- Fundraising Plan Pitch Deck
-- DaVinci Resolve Workflow
-- Content Rhythm writing
-- Start on Nora Hiking with friends
-- Color Workflow
-	- Post Production Handoff
-	- Post Production
-
+### High
+- Respond to Ellie with Quote on Open Table Shoot
+- Respond to Wood Shop on pitch date
+	- COMPLETE THE PITCH
+- IEI App
+- Send mom Tuition Payment breakdown AND dates
+### Mid
+- Put quotes into google sheets
+- Put template formal quote sheets into google drive
+### Low
+- 
 - ORDER NEW VENTURE CARD
 - Update Github Pinned project AND description
 - Add letters of rec to repository

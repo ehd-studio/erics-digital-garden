@@ -30,7 +30,7 @@ The key to all of these parts of the document is to establish a credibility asse
 ---
 ### Document Example: Mission Community Wood Shop
 
-STRUCTURE (for copy paste)
+Document Setup (for copy paste)
 ```
 Overview
 Tiered Giving List
@@ -40,39 +40,3 @@ Campaigns
 - Email Example
 Corporate/Local Business Partnerships
 ```
-
-#### Overview
-Mission Community Woodshop (MCW) has opportunities to grow their giving base through tiered giving levels that connect giving to impact. Each level could have community-oriented benefits, like early access to class registration or invitations to certain events. Through consistent social media storytelling and targeted email campaigns can nurture relationships and encourage recurring gifts. MCW can also expand support by cultivating corporate partnerships with tool companies, local makers, and design or architecture firms that sponsor workshops or community programs. Together, these strategies create multiple entry points for community members, businesses, and craft enthusiasts to invest in the woodshop’s growth and accessibility.
-#### Tiered Giving List
-A strategy that can resonate deeply with donors as they can understand tangible impacts. This would be clearly spelling out how much a donation could benefit the organization. This should be displayed clearly on the website donation page, as well as utilized during campaigns or other fundraising strategies. 
-
-Example: 
-	$250 donation - can support one student workshop seat 
-	$500 donation - Covers the cost of a part-time weekday membership for one month
-	$5,000 - Maintain key shop equipment for one year
-#### Donor Benefits
-Offering benefits at different giving levels helps to maintain and motivate donors. This shows appreciation, as well as a clear pathway to higher giving. These can create a sense of belonging, while also recognizing and thanking donors. Benefits can vary from early class registration to naming opportunities - for example a scholarship fund or classroom. 
-#### Campaigns
-Through careful social media storytelling and intentional email campaigns; you can connect with old and potentially new donors. Utilizing social media during a campaign helps to build on the story. From sharing about the workshop in general, to specific class offerings, to scholarships, to individual stories, these all shape the narrative. For emails, it is important to engage members, current and former, as well as donors and prospects. Setting a goal for a campaign is useful, whether it is a donor number or dollar amount. Through this you can also connect your social media, linking to a relevant video or post. Make sure there is always a call to action.
-
-Email example: 
-
-	Dear (NAME), 
-	
-	This Giving Tuesday, you can help make craft education accessible to everyone at Mission Community Woodshop. Your support funds scholarships for classes, keeps our tools running, and opens the doors for new makers to step into the shop for the first time.
-	
-	Every gift helps people learn, create, and build community through hands-on woodworking. Join us in celebrating the power of making by donating today and keeping the woodshop a place where everyone belongs. [Make a gift today.](https://www.missioncommunitywoodshop.org/donate)
-	
-	Some key times to build campaigns around: 
-	
-	Giving Tuesday (December 1, 2026) 
-	
-	Holiday Season (Late Dec, or around Thanksgiving. Also encouraging people to give before the New Year) 
-	
-	World Wood Day (March 21) 
-	
-	Spring or Summer Campaigns
-#### Corporate/Local Business Partnerships
-Partnerships with local business and corporations can be both beneficial through financial and in-kind gifts. This could be in the form of tools, materials, and sponsorships for workshops or events. These partnerships serve to benefit both parties. Through visibility and credibility, both MCW and the business partner can highlight their shared values in craft education, equity, and community development. These collaborations can expand reach, strengthen programs, and bring in new members and supporters. 
-
-Potential partners and sponsors can vary. It could be looking into a larger corporation (McMaster-Carr for example) who may want to donate in-kind or financial giving, or it could be partnering with a local coffee shop, hardware store, or art studio to do an event together.**
