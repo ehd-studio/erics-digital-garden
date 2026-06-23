@@ -1,14 +1,11 @@
-### High
-- Respond to Ellie with Quote on Open Table Shoot
-- Respond to Wood Shop on pitch date
-	- COMPLETE THE PITCH
-- IEI App
-- Send mom Tuition Payment breakdown AND dates
-### Mid
+- Look through the Fashion look book inspiration link and start writing about your favorite collections
+- Camera basics
+- Image Types and qualities based on platform 
+- DaVinci Coloring with Nodes workflow
+- Move over Book recs
+
 - Put quotes into google sheets
 - Put template formal quote sheets into google drive
-### Low
-- 
 - ORDER NEW VENTURE CARD
 - Update Github Pinned project AND description
 - Add letters of rec to repository

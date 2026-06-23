@@ -7,5 +7,3 @@ There are several different types of terminal environments and interpreters depe
 - **Windows Command Prompt (CMD):** The traditional text-based command-line interpreter used in Microsoft Windows to perform routine administration and basic automation tasks.
 - **Windows PowerShell:** A more advanced, object-oriented command-line interface and scripting language built on the .NET framework, designed for deep system integration and complex task automation.
 - **[[bash]] (Bourne Again Shell):** The default and most popular command-line interface and scripting language used in Unix and Linux-based operating systems.
-
----

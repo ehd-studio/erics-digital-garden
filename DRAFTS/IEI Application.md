@@ -46,9 +46,14 @@ Fellows must make satisfactory progress toward their master’s degree and remai
 ## Written
 
 1. **What are the top 2 systemic or social justice issues that you care the most about**, and that you wish to address in this fellowship? (250 words)
-*Food Insecurity and Barriers to Higher Education*
+*Barriers to Art Programs/Education and Food Accessibility*
 
-My first issue
+Among the many societal challenges we face, food accessibility and inequitable access to arts education are the two issues I care about most deeply. My passion for food accessibility stems from my family's connection to the farm-to-table movement. Coming from a farming background, our approach to food centered around environmental sustainability, transparency, and supporting local economies through direct relationships with farmers and producers. These principles shaped my own understanding of food and the role it plays in building healthy, resilient communities. As I have continued learning about food systems, I have been inspired to discover similar movements around the world. Despite their different cultural and historical contexts, these efforts share a common belief: that communities thrive when people have direct, equitable access to nutritious food and meaningful participation in local food systems. 
+
+
+
+Studying these movements has reinforced my conviction that community-supported agriculture is more than an economic model—it is a pathway toward food security, environmental stewardship, and stronger community relationships. Expanding access to fresh, nutritious food is essential not only for improving public health, but also for empowering communities to build more sustainable and equitable futures.
+
 
 2. **Tell us about your previous experience participating in a community project or organization, or of your current venture: What was/is your role? How did/does the group come together, and what happened as a result of your activities? (300 words)**
 
@@ -58,13 +63,6 @@ My first issue
 
 4. **Tell us about who and what has come before you to address these issues. If someone is experiencing the same problem you have identified, what solutions are currently available for them? How does your proposed solution improve upon the predecessor? What is your differentiator? (250 words)**
 
-Food insecurity organizations
-- **Largest national network:** Feeding America
-- **Best for child hunger:** No Kid Hungry
-- **Best for seniors:** Meals on Wheels America
-- **Best disaster response:** World Central Kitchen
-- **Best food rescue model:** City Harvest
-- **Best policy/advocacy approach:** Share Our Strength and Feeding America Action
 
 5. Whether you are coming to NYC, or you are local, **tell us about the community you plan to work with and how you think NYC might be a living laboratory for learning about your approach**. If you are new to NYC, try to do some research to explore what types of organizations you will want to connect to. (250 words)
 

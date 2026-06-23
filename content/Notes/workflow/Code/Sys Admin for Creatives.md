@@ -5,7 +5,6 @@ tags:
 
 The [[Command Line Interface]] is a useful tool for record manipulation, system interactions, task automation, and infrastructure administration for teams.
 ## Basic Commands
-
 This [[CLI Command List]] is a great starting point for navigating the basics of terminal commands.
 ## Shell Automations
 [[Shell Configuration Files]] are an easy way to streamline commands for future use.
