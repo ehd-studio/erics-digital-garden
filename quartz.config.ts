@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "The Digital Garden",
-    pageTitleSuffix: "",
+    pageTitle: "Points of Contact",
+    pageTitleSuffix: "a digital garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         title: "Doto",
-        header: "IBM Plex Sans",
-        body: "Libertinus Serif",
+        header: "Inter",
+        body: "IBM Plex Sans",
         code: "IBM Plex Mono",
       },
       colors: {
