@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       typography: {
         title: "Doto",
         header: "Host Grotesk",
-        body: "Inter",
+        body: "Jet Brains Mono",
         code: "IBM Plex Mono",
       },
       colors: {
