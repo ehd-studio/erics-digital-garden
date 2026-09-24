@@ -2,6 +2,8 @@
 tags:
   - evergreen
 ---
+*posted originally in Apr 20, 2021 to UX Collective*
+
 **Recently, I came across the 2018 documentary** [**_Rams_**](https://www.hustwit.com/rams) directed by Gary Hustwit, detailing the life and influence of legendary German industrial designer Dieter Rams.
 
 Rams is known for his “less is better” approach and industrial design works with [[Braun]] and [[Vitsoe]]. Most famously, this approach would go on to influence [Jonathan Ive and the Apple production team’s concepts](https://www.cnn.com/style/article/dieter-rams-film-exhibition-style-intl/index.html) for [Apple products](https://theultralinx.com/2014/03/dieter-rams-inspired-apple-products/) like the original iPod and iPhone. If you want an example (and have an Apple product at hand) just take a look at the calculator app, which takes its design influence from the Ram’s 1977 Braun ET44 model.
