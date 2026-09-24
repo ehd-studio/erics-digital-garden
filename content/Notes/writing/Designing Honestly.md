@@ -43,21 +43,21 @@ Photo by Dirk Linder. [Source](https://www.dezeen.com/2017/11/12/vitsoe-intenti
 
 By displaying the raw materials and craft included in the HQ’s construction, we gain a better sense of the effort, decisions and process behind it. Not only that, but the space is extremely adaptable to the needs of workers, while also providing visitors with ample ways to experience the materials and craftsmanship of Vistoe. It marries both transparency in displaying the quality of their product with providing value by addressing user needs for the space.
 
-==This is what lies at the center of honest design.== ==When we as designers show transparency in our work and attention to audience pain points, we are working towards a more trusting relationship====. This user trust is what makes honesty so important in great design.== We not only do justice to the hard work that has gone into the product but also provide users with more value when they use what we’ve built.
+This is what lies at the center of honest design. When we as designers show transparency in our work and attention to audience pain points, we are working towards a more trusting relationship. This user trust is what makes honesty so important in great design. We not only do justice to the hard work that has gone into the product but also provide users with more value when they use what we’ve built.
 
 ## Key to Honest Products
 
-Now, what is the key to building trust with a user base? ==How can you or I instill more honesty in our products?==
+Now, what is the key to building trust with a user base? How can you or I instill more honesty in our products?
 
-==For starters, we can work on growing our user empathy skills.==
+For starters, we can work on growing our user empathy skills.
 
-==The phrase “user empathy” gets thrown around a lot without any real regard for what users== ==_truly_== ==need.== ==If you really are dedicated to honesty in your design, it starts with understanding how you can provide value to your audience.== Vitsoe’s HQ provided value to its workers and visitors through quality materials, craftsmanship, and ==deep thought on what functions were needed to address user needs.== For a designer who can’t physically show this, like a UX Designer, ==you can provide similar value by supporting design decisions with strong user research and testing==. Both not only share transparency in their development, but also focus heavily on learning what their customers need and optimizing the value their products can provide.
+The phrase “user empathy” gets thrown around a lot without any real regard for what users _truly_ need. If you really are dedicated to honesty in your design, it starts with understanding how you can provide value to your audience. Vitsoe’s HQ provided value to its workers and visitors through quality materials, craftsmanship, and deep thought on what functions were needed to address user needs. For a designer who can’t physically show this, like a UX Designer, you can provide similar value by supporting design decisions with strong user research and testing. Both not only share transparency in their development, but also focus heavily on learning what their customers need and optimizing the value their products can provide.
 
-> ==“Good design is honest. It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.” Dieter Rams==
+> “Good design is honest. It does not make a product more innovative, powerful or valuable than it really is. It does not attempt to manipulate the consumer with promises that cannot be kept.” Dieter Rams
 
-==A product founded on a lack of user empathy is doomed from the beginning.== The final will always come out to be shallow, unintuitive and just a waste of time. You’re then left trying to salvage what you’ve created through inefficient patches, loose promises, and more lies to what you can provide your users.
+A product founded on a lack of user empathy is doomed from the beginning. The final will always come out to be shallow, unintuitive and just a waste of time. You’re then left trying to salvage what you’ve created through inefficient patches, loose promises, and more lies to what you can provide your users.
 
-Conversely, when a product team is willing to put in the time to understand its users, the end product doesn’t need to hide anything. It not only provides value, but continues to adapt and develop with the user’s input. Now more than ever, audiences are extremely resourceful and active in searching for products they can trust. Ones that can provide them with value and can display a penchant for honesty and empathy in their design. ==As a designer (or really as just a person), you should be reflecting constantly on how you can be a better advocate for your audience and how you can improve your honesty with the work you do.==
+Conversely, when a product team is willing to put in the time to understand its users, the end product doesn’t need to hide anything. It not only provides value, but continues to adapt and develop with the user’s input. Now more than ever, audiences are extremely resourceful and active in searching for products they can trust. Ones that can provide them with value and can display a penchant for honesty and empathy in their design. As a designer (or really as just a person), you should be reflecting constantly on how you can be a better advocate for your audience and how you can improve your honesty with the work you do.
 
 ![Braun C301 Cassette Deck. An example of design that is honest. Affordances are clear and concise for the user.](https://miro.medium.com/v2/resize:fit:960/1*G858KdLBNluQU3-3Eq_4kA.jpeg)
 
@@ -79,19 +79,12 @@ Conversely, when a product team is willing to put in the time to understand its 
 
 Honesty is a lifestyle. It’s a habit that must continue to adapt to situations its put in.
 
-==Trust is a commodity. When trust is broken, it’s hard to say it will ever come back====.==
+Trust is a commodity. When trust is broken, it’s hard to say it will ever come back.
 
 With products, you need to be conscious of how honest you really are being as your project(s) and audience continue to change.
 
-Adams decision to leave the Vitsoe HQ unfinished is a strategy for staying adaptable and honest with his audience. When describing the new HQ in an interview with Dezeen, Adams addressed the construction decision stating that the building, [“](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/)==[…will be unfinished — and it is unlikely that it will ever be finished — because it is alive and learning as it responds to an ever-changing world.”](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/)==
+Adams decision to leave the Vitsoe HQ unfinished is a strategy for staying adaptable and honest with his audience. When describing the new HQ in an interview with Dezeen, Adams addressed the construction decision stating that the building, [“](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/)[…will be unfinished — and it is unlikely that it will ever be finished — because it is alive and learning as it responds to an ever-changing world.”](https://www.dezeen.com/2017/11/12/vitsoe-intentionally-unfinished-cross-laminated-timber-headquarters-england-uk-architecture/)
 
-==Honesty should always be at the center of your work and must be a guiding question as you continue to build around your changing product goals.==
+Honesty should always be at the center of your work and must be a guiding question as you continue to build around your changing product goals.
 
 There is immense value in user trust and you will need to continue to prove why you are deserving of it.
-
----
-### Related
-[[Braun]]
-[[Vitsoe]]
-[[Dieter Rams]]
-[[Design Quotes]]

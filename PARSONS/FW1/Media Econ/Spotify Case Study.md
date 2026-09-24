@@ -1,0 +1,44 @@
+- Music industry move away from physical players began in 1999
+	- Better music compression formats in late 90s (mp3)
+	- Peer-to-peer sharing became mainstay (Napster, eMule, Kaaza)
+- Music industry failed to find way to leverage new format
+	- platforms like mp3.com were early adopters of peer-to-peer
+	- shutdown by labels through legal action
+- iTunes was first proof of concept that music labels could leverage IP for streaming
+- Growth of smart phones and broadband internet lead to widespread adoption
+
+### Music industry in 2024
+- Recording Industry in 2022 reported similar growth of 9% to previous 8 years ($26B)
+	- This excludes live music revenue ($31B)
+- Largest markets in 2022:
+	- United States (41%), Japan, UK
+- US has grown 9% from previous year
+- Largest shares of growth for streaming
+	- United States
+	- Europe
+	- China
+	- sub-Saharan Africa
+	- Latin America
+	- Middle East/Northern Africa
+- Revenue of Music Industry
+	- Streaming - 67%
+	- Physical (Vinyl, Cassette..) - 18%
+	- Download - 4%
+	- Performance Rights - 9%
+	- Sync - 2%
+- Warner, Sony and Universal Music Groups accounted for nearly 70% of the market
+- Media diet for consumers
+	- 20.7 hours of audio consumption
+	- 32% audio streaming
+	- 31% video streaming
+	- 17% radio
+	- 9% purchased
+	- 5% social
+	- 4% live music
+	- 7% other (TV, Movies)
+- 16-24 demographic cited short form platforms as primary way to listen to music
+- 70% of artist revenue is gained from Live Music
+- 'Heritage Artists' (whose largest tracks are 5 years or older on streaming platforms) brought in roughly $1.2 billion to Spotify
+### Non Music content
+- Spotify has invested heavily in non music content (podcasts/audiobooks) and services like advertising technology, analytics, editing tools and live audio streaming.
+- 
