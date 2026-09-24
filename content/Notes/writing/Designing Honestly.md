@@ -2,7 +2,7 @@
 tags:
   - evergreen
 ---
-*posted originally in Apr 20, 2021 to UX Collective*
+*posted originally in Apr 20, 2021 to [UX Collective](https://uxdesign.cc/designing-honesty-48eb2987b0c)*
 
 **Recently, I came across the 2018 documentary** [**_Rams_**](https://www.hustwit.com/rams) directed by Gary Hustwit, detailing the life and influence of legendary German industrial designer Dieter Rams.
 
