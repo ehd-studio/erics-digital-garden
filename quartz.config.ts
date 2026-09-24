@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "POINTS OF CONTACT",
-    pageTitleSuffix: "| Points of Contact",
+    pageTitleSuffix: " | Points of Contact",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
