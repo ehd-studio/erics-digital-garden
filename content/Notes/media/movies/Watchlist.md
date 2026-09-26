@@ -3,7 +3,7 @@ tags:
   - culture
   - film
 ---
-## Watchlist
+## Movies
 - Y tu mama tambien (2001)
 - Arco
 - The Man Who Stole the Sun
@@ -23,7 +23,7 @@ tags:
 - House
 - Place Beyond the Pines
 
-Movements
+## Movements
 - *Italian Surrealism*
 	- 8 1/2
 - *French New Wave*
@@ -31,7 +31,7 @@ Movements
 - - *Wuxia Films*
 	- [The Blade](https://www.youtube.com/watch?v=ttehPZsNcxI&t=29s)
 
-Directors
+## Directors
 - Yasujirō Ozu
 - Abbas Kiarostami
 - Satyajit Ray

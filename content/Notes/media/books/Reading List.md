@@ -3,8 +3,6 @@ tags:
   - culture
   - books
 ---
-### Read List (Unsorted)
-
 - *Waterlog* — Roger Deakin
 
 - *Nina Simone's Gum* — Warren Ellis

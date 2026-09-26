@@ -3,7 +3,7 @@ tags:
   - culture
   - music
 ---
-## Listen List
+## Albums
 - **Pink Moon** - *Nick Drake*
 - **Ridin' Dirty** - *UGK*
 - **Rinsed** - *Dean Blunt*
@@ -42,3 +42,5 @@ tags:
 - **In Europe Vol. 1** - *Eric Dolphy*
 - **Take no Prisoners Live** - *Lou Reed*
 - **Naturally** - *J.J. Cale*
+## Movements
+## Artist
