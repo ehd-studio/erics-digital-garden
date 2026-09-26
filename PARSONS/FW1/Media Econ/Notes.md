@@ -22,4 +22,9 @@
 	- Lack of competition
 	- Why it formed
 	- and the risk it poses to consumers
+
+---
+## Week 5
+- **Marketing Funnel** - Ability for companies to move from Awareness to purchase
+- Media that isn't actually direct marketing (*Barbie* as IP to be used by creators w/ revenue share)
 - 

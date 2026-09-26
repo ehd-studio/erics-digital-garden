@@ -71,9 +71,43 @@ Let me know what you think and apologies on the late reply.
 Regards, 
 Eric
 
+### Second Proposal (9/24)
+Hi Paul,  
+  
+I’ve been thinking more about the proposal above and our discussion. I’m still interested in the relationship between creators and the studios that ultimately produce their work, but after reading the Guggenheim case study, I’ve become particularly interested in the dynamic between cultural institutions and high-profile audiences or client bases.  
+  
+We recently spoke with Kristen Cruzata about The Athletic’s coverage of the World Cup, which made me think about this in a slightly different way. Similar to what you mentioned about Dick’s new documentary division building a platform, The Athletic aimed to create a World Cup “control center” that audiences would return to throughout the tournament to track games, interact with reporters through the chat, and read post-match coverage around emerging storylines. The idea of platform creation also came up briefly in the Spotify case study, with TunedGlobal providing white-label streaming services to partners. I also found the Barbie case study interesting, particularly how Mattel used Mattel Films to evolve from a legacy toy company into a broad, IP-driven management company.  
+  
+For my case study, I’m considering exploring the intersection between cultural institutions and media distribution. Museums like the Guggenheim develop large-scale global initiatives that allow them to create flexible relationships with artists and partners across different markets. I’m wondering whether the relationship between a museum and an artist could also extend into some form of FAST channel or other distributed media platform, and what that value chain might look like.  
+  
+More broadly, I’m interested in how these massive streaming platforms might be supplemented (or are already being supplemented) by more localized forms of distribution outside the major platforms. So much of the conversation and investment around media distribution is concentrated around the major streamers, but I’m curious whether there are alternative revenue streams and distribution models that are being underrepresented in the larger picture. What does the future of the creator, studio and distribution chain look like? Is it more localized and outside the typical streamers? What are some examples?  
+  
+I think there could be an interesting case study in examining what happens when cultural institutions, artists, and media distribution intersect, particularly around ownership, audience development, IP, and alternative forms of monetization.
 ## Analysis Project
 - **Blockbuster effect** - High cost, less creative breadth/competition creates no competition
 	- Once there are a lot, you must consolidate power to force visibility (money)
 
 [Linear TV more resilient than VOD the past three years](https://www.ampereanalysis.com/insight/us-linear-commissioning-proves-more-resilient-as-vod-pulls-back-in-the-market-post-peak-tv?pr=1f62becb1363bc86f7c3bf1f35196457b2d01ba085946a374854b4727f98df29&utm_campaign=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_content=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_medium=newsletter&utm_source=puck-cio&utm_term=f6c6062c9ee001dfa852)
 [Media that wins will be those who control both the phone and the tv](https://www.mediaplaynews.com/omdia-75-percent-of-us-tv-viewers-use-smartphone-to-watch-tv/?pr=1f62becb1363bc86f7c3bf1f35196457b2d01ba085946a374854b4727f98df29&utm_campaign=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_content=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_medium=newsletter&utm_source=puck-cio&utm_term=f6c6062c9ee001dfa852)
+
+
+
+- UBS partnership with Guggenheim and how high value partnerships continue to live on
+	- Are there needs for new ways to interface with art? (AP Watch is very expensive, but how do you keep people engaged at different touch points?)
+- Sponsors (specifically Official/supplier partners and not standard) bring UEFA funding, technology, consumer experience, and retail/media
+	- How are these new experiences built and the platforms leveraged from a UEFA partnership?
+	- How do leagues choose their partners and how do the partners integrate?
+- **Do I want my study to be concerning IP?** - sports, film , toys and how legacy products are being updated/propagated
+	- Toy company (Mattel) is creating a media studio to expand IP
+	- Nintendo creating a media studio?
+
+- Interests:
+	- REMINDER: Where is the money going and why?
+	- Youtube and younger generation habits
+	- Emergent media technology/platforms
+	- Sports and their partnerships
+	- Content licensing in other industries (library value of assets) based on proportions of total revenue. Where the money is going down and where it is going up.
+		- Social structures with usage of licensed IP (Dance moms - TV to Streaming, to Youtube React to Social)
+	- Developing a media asset (something that will generate value without anything being done directly) versus a marketing material (getting eyeballs on your material, but has no longevity) -> looking at NET CASH FLOW, LIBRARY VALUE AND IP VALUE
+		- Reputational value to library value (Mr. Beast translating 'influencer clout' to real library value with Amazon)
+		- Create a corporate strategy that is more strategy than vision (I want an increase in viewers age 16-25 VS I want to be more relevant for the kids)
