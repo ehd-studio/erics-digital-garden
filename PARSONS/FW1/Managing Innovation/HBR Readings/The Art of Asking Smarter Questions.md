@@ -1,0 +1,23 @@
+- "I probably give fewer answers and I ask a lot more questions….It’s almost possible now for me to go through a day and do nothing but ask questions." ~ Jensen Yang *NYT*
+	- probing questions to get people to work things out themselves
+- The big differentiator is no longer the access to information, but the ability to craft smarter prompts
+- Questions that get people into trouble are the ones that fail to be asked
+- Strategic groupings of questions:
+	- *Investigative* (whats known?) - gaining depth. Asking questions to dive deeper to non traditional solutions or problems
+		- Toyota '5 Whys' - asking why 5 times to get to non traditional responses
+		- Probing How questions continuously to get to fringe cases
+	- *Speculative* (what if?) - broadening the scope to the possibilities
+		- IDEO "How might we.." coined by Min Basadur - broadening the possibilities of how a solution can be completed.
+	- *Productive* (now what?) - questioning availability of time, resources, talent, leverage, etc.
+		- "How can we get it done?", "How can we measure success"
+	- *Interpretive* (so what?) - continually checking if the right question is being asked. Draw out the implications of actions/results you witness 
+		- "What if this trend continues?"
+		- "So, what opportunities does this draw out?"
+		- "What did we learn"
+		- "How was this useful"
+	- *Subjective* (what is unsaid?) - checking the emotional reactions of those involved
+		- Allow doubters/dissenters to share their views
+		- How do you really feel about this decision?
+		- Are there differences between what was said, what was heard, and what was meant?
+		- Have we consulted the right people?
+		- Are all stakeholders genuinely aligned?

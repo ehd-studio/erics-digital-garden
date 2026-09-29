@@ -1,0 +1,19 @@
+- Effect of greater questions
+	- Fostering collective intelligence
+	- Increase quality of decision making process
+	- Increased empathy
+	- Lower the threshold for others to speak up
+
+- What is a great questions?
+	- Shows you are thoroughly prepared for the conversation and are invested in their background
+		- **First:** “What kind of a look and feel would you like the new website to have?”
+		- **Greater:** "I invested time to catch up on the news about your firm and I was fascinated to read that you will start selling e-bikes in Paris as well.That’s amazing! How would you like to highlight this expansion on the new website that I will design?”"
+	- Shows your expertise without showing it off
+	- I did X and now I have questions about Y
+		- **First:** “I studied marketing at the world-famous Columbia University, and I’ve worked for the most prestigious Fortune 500 companies helping them successfully implement content marketing. How ambitious is your company about embracing content marketing as an additional growth channel?”
+		- **Greater**: “I’m really passionate about content marketing and I would love to use the experience I gained from working with Fortune 500 companies in my last role to help our clients grow their businesses. Against that backdrop, I’m curious to understand how your company aims to position content marketing as an additional growth channel?”
+	- Invites others to deepen their thinking and question their belief
+	- Can be done so through brining new knowledge or insights into the question
+	- Sticking with client knowledge leads to a limiting result
+		- **First:** “So, you’d like to organize a biweekly, three-hour update meeting for us to share the progress on this project and to stay aligned on the steps ahead. Whom should I contact to check calendar availabilities?”
+		- **Greater:** “I fully agree with you on the importance of staying aligned and planning ahead through weekly check ins and update meetings. Interestingly, our firm implemented 20-minute daily stand-up meetings two years ago. At first, I wasn’t too sure these daily brief sessions would work and I worried they would be intrusive. But I have to admit they’ve helped us move forward more efficiently and quickly. Do you think you such an approach could work for your team?”
