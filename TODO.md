@@ -1,3 +1,6 @@
+Reference Notes TODO
+- SCAMPR
+
 - Look through the Fashion look book inspiration link and start writing about your favorite collections
 - Camera basics
 - Image Types and qualities based on platform 

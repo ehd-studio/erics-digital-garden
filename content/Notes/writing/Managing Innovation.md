@@ -20,33 +20,18 @@ When she moved over from The Times, she learned employees' names and faces befor
 
 "Vulnerability begets vulnerability," she told us.
 
-Psychological safety and celebrating people's wins don't sound like an innovative strategy, but they decide whether people speak up, question assumptions, and try things that might fail. Harvard Business Review's investigation into 'The Art of Asking Great Questions' cites how this interpersonal connection can lead to greater collaboration with projects. The effect of openness through vulnerability builds an environment that fosters collective intelligence through more dialogue, increases empathy and overall increases the quality of the decision making process.
+Psychological safety and celebrating people's wins don't sound like an innovative strategy, but they decide whether people speak up, question assumptions, and try things that might fail. Harvard Business Review's investigation into *'[[The Art of Asking Great Questions]]'* cites how this interpersonal connection can lead to greater collaboration with projects. The effect of openness through vulnerability builds an environment that fosters collective intelligence through more dialogue, increases empathy and overall increases the quality of the decision making process.
 
-She also pushed hard on transparency. If you want people to take part in change, they need to understand the bigger picture, not just hear the decision after it's made. And when the direction has to change, the work isn't over once you decide to pivot. "You have to be able to quickly pivot and then effectively communicate to those people who are going to be affected by the pivot." 
-
-**Bringing people along is part of the pivot. Research by Harvard Business Review on how to ask smarter questions found that strategic questions can be grouped into five domains: investigative, specul**
-
-**Our research reveals that strategic questions can be grouped into**
-**five domains: investigative, speculative, productive, interpretive, and**
-**subjective.**
-
-**Arnaud Chevallier, professor of at IMD Business School, built a tool to help map the questioning patterns of over 1,200 global executives. Although there was** 
-
-**Although the combined results showed**
-**an even distribution among the five styles we’ve described, individual**
-**answers revealed major imbalances. One category or another was barely**
-**on the radar of more than a third of the executives. And follow-up**
-**interviews showed that many leaders were overly attached to the types**
-**of questions that had brought them success. They relied on those at the**
-**expense of other kinds of inquiries.**
-
+She also pushed hard on transparency. If you want people to take part in change, they need to understand the bigger picture, not just hear the decision after it's made. And when the direction has to change, the work isn't over once you decide to pivot. “You have to be able to quickly pivot and then effectively communicate to those people who are going to be affected by the pivot.” Bringing people along is part of the pivot.
 ### Listen before you build
 
 The same habit applies to audiences. The Athletic tests ideas through consumer research, focus groups, an Audience Insights group, and A/B tests on headlines. The home feed is even personalized by algorithm around what each reader cares about.
 
+Innovation requires a system free of our own assumptions in search of better need finding for our audience. *[[The Design Thinking Playbook]]*, a guide focusing on using human-centric systems thinking to lead digital transformation, argues that the innovation can only work when we release ourselves from our own personal relationship and internalize the needs of users. Listening before building is achieved when, "we are where they are, especially when we witness the part of their life we want to improve."
+
 One lesson from FIFA coverage stayed with us. A fan's experience doesn't end when the match does. They want to know what the result means and what comes next. "What you do after the moment has to be big."
 
-That changes the question. It's no longer "how do we cover the game?" but "what experience can we build around it?" Live coverage, streams, discussion feeds, and analysis can turn an audience into a community by giving people a place to gather and a reason to come back tomorrow. Cruzata also raised the "second screen" problem: what should we offer someone who's already watching live?
+That changes the question. It's no longer "how do we cover the game?" but "what is the fan experience we can build around it?" Live coverage, streams, discussion feeds, and analysis can turn an audience into a community by giving people a place to gather and a reason to come back tomorrow. Cruzata also raised the "second screen" problem: what should we offer someone who's already watching live?
 
 So innovation doesn't always mean inventing something new. Sometimes it starts with watching what audiences already do and finding a better way to serve it.
 
