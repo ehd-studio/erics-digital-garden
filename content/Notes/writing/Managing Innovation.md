@@ -1,4 +1,10 @@
-### In conversation with Kristen Cruzata, Chief of Staff at The Athletic
+---
+tags:
+  - evergreen
+---
+*In conversation with Kristen Cruzata, Chief of Staff at The Athletic*
+
+---
 
 Ask most people in the media what's driving innovation and you'll hear the same list: AI, algorithms, platforms, whatever disrupts us next.
 
