@@ -1,3 +1,5 @@
+*by Tijs Besieux*
+
 - Effect of greater questions
 	- Fostering collective intelligence
 	- Increase quality of decision making process

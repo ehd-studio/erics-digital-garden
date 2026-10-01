@@ -1,3 +1,5 @@
+*[Arnaud Chevallier](https://hbr.org/search?term=Arnaud%20Chevallier), [Frédéric Dalsace](https://hbr.org/search?term=Fr%C3%A9d%C3%A9ric%20Dalsace) and [Jean-Louis Barsoux](https://hbr.org/search?term=Jean-Louis%20Barsoux)*
+
 - "I probably give fewer answers and I ask a lot more questions….It’s almost possible now for me to go through a day and do nothing but ask questions." ~ Jensen Yang *NYT*
 	- probing questions to get people to work things out themselves
 - The big differentiator is no longer the access to information, but the ability to craft smarter prompts
