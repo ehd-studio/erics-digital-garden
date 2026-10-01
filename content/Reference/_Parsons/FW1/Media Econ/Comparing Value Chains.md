@@ -8,4 +8,3 @@
 	- film/tv cost on front end is very high -> less people
 	- music/social on front end is very low -> more people entering
 	- both lead to consolidation of power (major studios/institutions)
-	

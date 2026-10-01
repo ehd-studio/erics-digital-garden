@@ -1,5 +1,7 @@
 Reference Notes TODO
+- Innovation course: Catchup on readings from Week 6
 - SCAMPR
+- Media Econ: add Marketing/Movies/Finances Notes
 
 - Look through the Fashion look book inspiration link and start writing about your favorite collections
 - Camera basics
