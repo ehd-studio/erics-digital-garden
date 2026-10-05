@@ -1,3 +1,2 @@
-
 ### Index
-[Atlantic Ideas](https://www.theatlantic.com/ideas/)
+- [Atlantic Ideas](https://www.theatlantic.com/ideas/)

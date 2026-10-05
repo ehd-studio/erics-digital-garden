@@ -1,0 +1,11 @@
+- Streaming (music/video) have similar simplified [[Value Chain]]
+	- 1. creator/artist
+	- 2. studios
+	- 3A. traditional distributors (Warner Music, Universal Studios)
+	- 3B. digital disruptors (includes traditional distributors shifting)(Spotify, Netflix, Peacock, Disney+)
+	- 4. consumers
+- 'first copy' cost varies based on market
+	- film/tv cost on front end is very high -> less people
+	- music/social on front end is very low -> more people entering
+	- both lead to consolidation of power (major studios/institutions)
+	
