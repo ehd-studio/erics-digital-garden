@@ -120,10 +120,13 @@
 	- *Change the Perspective* - What if...? What might be possible?
 	- *Experiencing other products to discover design challenge*
 ### 1.4 How to discover user needs
-
+- 
 ### 1.5 How to build empathy with users
 - 
 ### 1.6 How to find the right focus
 - 
 ### 1.7 How to generate ideas
-- 
+
+## Transform Organizations
+
+### 2.1 

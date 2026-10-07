@@ -23,3 +23,6 @@ Ilaria put a heavy emphasis on the need for luxury to pay attention to the exper
 ![[IMG_4434.jpeg]]
 
 ![[IMG_4429.jpg]]
+
+- *Made To Stick* Chapter 2 - Surprise gets attention, curiosity keeps attention (connection to her discussion about engagement and keeping people in the silo)
+	- https://www.canva.com/design/DAHXJt8QaUQ/GbyGR4fCk54SyIEy8ABkmw/edit

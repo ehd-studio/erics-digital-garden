@@ -1,6 +1,11 @@
 Reference Notes TODO
 - Innovation course: Catchup on readings from Week 6
 - SCAMPR
+- Managing innovation Notes
+	- _Design Thinking Playbook_, 2.5–2.7
+	- _Made to Stick_, Introduction–Chapter 2
+	- _Design Thinking Playbook_, 2.1–2.4
+	- HBR, “Bring Your Breakthrough Ideas to Life”
 - Media Econ: add Marketing/Movies/Finances Notes
 
 - Look through the Fashion look book inspiration link and start writing about your favorite collections
