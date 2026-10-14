@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Home Page
 ---
+Hello! My name is Eric and welcome to my digital garden. There are many drafts, ideas, partial and fragments within it. Everything is loosely tended and always public.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Here are a couple of resources to get you started:
+
+[[! overview]]
+
+[[! information hierarchy]]
