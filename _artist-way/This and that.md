@@ -2,4 +2,4 @@
 - **code and stitching**: discussing with Kevin Finn about the similarities between computing and weaving. I love the dichotomy and hope to dive deeper into it through books like *The Andean Information Age* and through learning how development works.
 - **editing/effects that feel like music:** I saw some interesting 3D editing effects I wanted to try. I love this type of *ambient editing* where discussions or visuals are given a type of rhythmic space to linger
 ---
-- I like the idea of being curious and creating technical spaces to explore and build on them (example is this repository) - I want to archive ideas and allow people to explore paths.
+- I like the idea of being curious and creating technical spaces to explore and build on them (example is this repository) - I want to archive ideas and allow people to explore paths: having a grasp of both confidence in technical skills to build at will and the community to continue building within.
