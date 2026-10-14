@@ -6,4 +6,6 @@
 *Encoding* - the process of translating text as numbers. (see [[Binary and Bits]] for details)
 
 ## Chapter 2 - Flow Control
+- *not* operator is unary meaning that it will evaluate to the opposite boolean value
+	- eg. *not True* equals *False*
 - 

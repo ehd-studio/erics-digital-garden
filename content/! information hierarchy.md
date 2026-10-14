@@ -15,9 +15,9 @@ The garden's layout is governed by an interconnected, dynamic back link structur
 - **Notes** - Documented ideas, reflections, and exploratory thinking around personal interests.
 	*Note categories:*
 	- **case study**: project explorations across UX, Graphic Design and Video documenting work process, research and results. Occasionally connected directly to my personal work portfolio.
-	- **media**: media consumed and documented. Contains simple thoughts and personal takes on things such as movies, books, music.
+	- **media**: books, movies, short form and music needing currently checking out.
 	- **workflow**: documenting learnings about the tools of the trade.
-	- **writing**: a journal of ideas/thoughts.
+	- **writing**: a journal of ideas/thoughts posted or not posted.
 - **Reference** - Researched topics using a structured, Wikipedia-style approach that organizes information through densely interlinked sources and clearly cited references. They are interlinked to *notes* for reference and background.
 	- eg. *Bauhaus*, *Oakland*, *shibori dye*, *Porsche Motors*
 

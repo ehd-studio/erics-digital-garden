@@ -1,4 +1,3 @@
-
 _Ethics for the Real World: Creating a Personal Code to Guide Decisions in Work and Life_ 2008 book by Ronald A. Howard and Clinton D. Korver
 
 ----

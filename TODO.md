@@ -29,3 +29,9 @@ Reference Notes TODO
 	- https://business.linkedin.com/hire/resources/how-to-hire-guides/creative-director-job-description
 	- https://business.linkedin.com/hire/resources/how-to-hire-guides/creative-director-interview-questions
 	- https://www.zippia.com/creative-director-jobs/
+
+Strategist that marries data analysis with production/creative vision
+	- business strategy
+	- data analysis
+	- production build/app creation
+	- creative vision

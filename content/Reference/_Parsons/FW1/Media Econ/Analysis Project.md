@@ -111,3 +111,7 @@ I think there could be an interesting case study in examining what happens when 
 	- Developing a media asset (something that will generate value without anything being done directly) versus a marketing material (getting eyeballs on your material, but has no longevity) -> looking at NET CASH FLOW, LIBRARY VALUE AND IP VALUE
 		- Reputational value to library value (Mr. Beast translating 'influencer clout' to real library value with Amazon)
 		- Create a corporate strategy that is more strategy than vision (I want an increase in viewers age 16-25 VS I want to be more relevant for the kids)
+
+- **IP 360** - how different services (music, movies, sports) value creation streams over time
+	- https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2025_E.pdf - Sony Corporate slide (changing integrated media systems)
+	- As a factor of managing volatility on IP?
