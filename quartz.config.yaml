@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
   pageTitle: Points of Contact
-  pageTitleSuffix: " | notes n stuff "
+  pageTitleSuffix: " | a digital garden "
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -22,24 +22,24 @@ configuration:
     colors:
       lightMode:
         light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
+        lightgray: "#C3AF8D"
+        gray: "#987F55"
+        darkgray: "#6E552B"
         dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
+        secondary: "#788b00"
+        tertiary: "#9a2204"
+        highlight: "#eee6d8"
+        textHighlight: "#9a2204"
+darkMode:
+        light: "#505912"
+        lightgray: "#d0e73c"
+        gray: "#eee6d8"
+        darkgray: "#eee6d8"
+        dark: "#f7f9e4"
+        secondary: "#d0e73c"
+        tertiary: "#5abeec"
         highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
-      darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        textHighlight: "#5abeec"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
