@@ -1,0 +1,37 @@
+---
+tags:
+  - culture
+  - film
+---
+## Movies
+- Y tu mama tambien (2001)
+- Arco
+- The Man Who Stole the Sun
+- Mishima a life in four chapters
+- Tampopo (1985)
+- Sweet Charity
+- Killer of Sheep
+- Supermarket Woman (1996)
+- Sirat
+- If I had Legs I Would Kick You
+- Oldboy
+- No Other Choice
+- Last Stop in Yuma County
+- The Sound of Falling
+- I'm Still Here
+- MacBeth (2015)
+- House
+- Place Beyond the Pines
+
+## Movements
+- *Italian Surrealism*
+	- 8 1/2
+- *French New Wave*
+	- The Story of a Three-Day Pass
+- - *Wuxia Films*
+	- [The Blade](https://www.youtube.com/watch?v=ttehPZsNcxI&t=29s)
+
+## Directors
+- Yasujirō Ozu
+- Abbas Kiarostami
+- Satyajit Ray

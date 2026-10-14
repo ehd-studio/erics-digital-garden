@@ -1,0 +1,27 @@
+*CEOs of GANNI*
+
+- no 5 year plan -> too constraining for inevitable volatility
+	- coming from a tech background prepared them for quick landscapes
+	- break down the **vision** to goals to achieve(price point, medium, size)
+- prioritized fashion inclusivity
+	- 2009 fashion inclusivity was not as big a thing (saw the change on the horizion)
+- they were naive to the idea of what skills it took to break into the industry 
+	- prioritize push and drive
+- agile tool alignment allowed them to move quickly
+	- hierarchy to make decisions
+	- centralized narrative to return to
+- patchwork content through new touchpoints
+- "beauty, business and responsibility" - the beautiful struggle
+	- [GANNI LAB](https://www.ganni.com/us/materials-index.html?srsltid=AU7gw4X470SvxNnOSHhOjPX9lg-hIVgIuENwdM_2iBNTA0a0v6dd4e2m)
+	- [Lab Instagram](https://www.instagram.com/ganni.lab/?hl=en)
+- LVMH prioritizes a creative who has a vision, but also a business perspective with structure
+	- "creative vision with business acumen to see how your brand/message moves with changing landscapes"
+- Creating materials is a question of scale. They would not have had the space to do that without proof of concept on sales
+	- **Who gets to innovate and who gets to propagate? How does one do both?**
+- Creating a personal brand helps to scale the vision through mediums -> flesh out the vision
+	- connect to a feeling for flexibility (Ganni = jovial fun)
+- Friction is where you learn
+	- The areas of most failure or struggle is where they learned the most
+	- GET YOUR HANDS DIRTY
+	- action over protection, fail fast, honesty over perfection
+- on building creative community: contact the people you admire and be open to letting people into your spaces

@@ -1,0 +1,10 @@
+**UXP (Unified Extensibility Platform)** is Adobe's modern, JavaScript-based extensibility framework designed to replace legacy technologies like ExtendScript and the HTML5-based CEP. Powered by a modern V8 JavaScript engine, UXP brings Adobe automation into the era of ES6+, supporting contemporary coding features like `async/await`, modules, and classes.
+
+Unlike previous frameworks, UXP gives developers direct access to the application's native APIs without the overhead of a communication bridge. This results in significantly **improved performance, better memory efficiency, and a sandboxed execution environment** that handles network and filesystem permissions securely. UXP also features Adobe's Spectrum web components, enabling developers to build custom interfaces that perfectly match the native look and feel of Adobe applications.
+
+The primary **use cases for UXP** include:
+
+- **Modern Persistent Panels:** UXP is the recommended path for creating any new, persistent panel interfaces in applications like InDesign and Illustrator. It is best suited for building modern, highly scalable UI solutions.
+- **Hybrid Framework Orchestration:** UXP is frequently used in tandem with ExtendScript. A developer will build a modern UXP panel to serve as the user-facing interface (handling configuration, web services, and progress updates), while relying on an underlying ExtendScript to execute the heavy batch-processing logic.
+- **Deep Cloud and API Integration:** Thanks to its modern architecture, UXP is ideal for plugins that require fast, seamless integration with external APIs, network operations, and Adobe Cloud services.
+- **AI-Assisted Workflows:** UXP's capabilities make it possible to integrate Large Language Models (LLMs) directly into Adobe applications. For example, the UXP-based plugin **MATE** connects to models like ChatGPT and Claude to allow users to generate and execute automation scripts instantly using conversational, natural language prompts.
