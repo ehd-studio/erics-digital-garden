@@ -28,9 +28,6 @@ First described by Michael Porter in his 1979 _Harvard Business Review_ article,
     - **Key Drivers:** Rivalry is fierce when competitors are numerous or equal in size, industry growth is slow, fixed costs create incentives for price cutting, exit barriers are high, or rivals are committed to contrasting strategic goals.
 
 ---
-
 ### Key Industry Dynamics & Strategy
 
 The article emphasizes that **industry structure is dynamic rather than static**. Over time, buyer or supplier power fluctuates, technological or managerial innovations alter entry and substitution threats, and regulatory shifts reconfigure competitive rules. Evaluating the Five Forces allows firms to anticipate structural changes, influence how industry rules evolve, and secure a resilient strategic position.
-
----

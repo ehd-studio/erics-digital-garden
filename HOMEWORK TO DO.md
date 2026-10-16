@@ -1,0 +1,2 @@
+- Email Paul the worksheet he gave us
+- Finish your Analysis oner and presentation notes for Thursday next week

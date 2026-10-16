@@ -1,5 +1,13 @@
 - **building for people and technical tools** -> *at the GANNI Talk:* A  girl discussed building an app for the New School to connect creatives for new projects. It felt emblematic of what I like to do and stuck out to me especially at a fashion talk for some reason. I wrote down "Technology for human connection, creation and learning" I think a lot of my artist way saves are directly linked to this idea of *creating digital spaces that people want to linger within* especially when its concerned with documenting cultural preservation, regional identity or spaces for learning.
 - **code and stitching**: discussing with Kevin Finn about the similarities between computing and weaving. I love the dichotomy and hope to dive deeper into it through books like *The Andean Information Age* and through learning how development works.
 - **editing/effects that feel like music:** I saw some interesting 3D editing effects I wanted to try. I love this type of *ambient editing* where discussions or visuals are given a type of rhythmic space to linger
+- **museums, archives and cultural preservation** (*old is the new*): looking at my saves, I'm finding that I love the connection between old forms of doing things and new technology to share it. For film: I love old cameras with new forms of videography. With websites: I love experience and culture displayed on newly curated forms of digital interaction. With graphic design: I like modern experiences displayed through physical formats (newspaper, crayon, etc). All these examples show a love for the classic, but wanting to use it in a new way that helps me understand or showcase modern experience or ideas. The real question is what lens do I want to focus on?
 ---
 - I like the idea of being curious and creating technical spaces to explore and build on them (example is this repository) - I want to archive ideas and allow people to explore paths: having a grasp of both confidence in technical skills to build at will and the community to continue building within.
+- Words that stick out
+	- Music
+	- Cultural Preservation
+	- local-to-global
+	- Handmade
+	- Zeitgeist research
+	- Connection

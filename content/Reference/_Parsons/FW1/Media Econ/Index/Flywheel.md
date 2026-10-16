@@ -48,7 +48,3 @@ In 2018, HubSpot officially retired the funnel metaphor in favor of the flywheel
 #### 3. Pepperfry
 
 The Indian online furniture brand Pepperfry operates an omnichannel flywheel tailored to high-consideration purchases. Realizing that furniture relies heavily on "Touch and Trust," Pepperfry established physical "Studios" to attract urban foot traffic (Attract). They staff these showrooms with qualified interior designers to educate visitors and maintain interactive corporate blogs (Engage). Finally, they offer flexible EMI payment structures, robust delivery systems, and professional in-home assembly to resolve consumer frustration and ensure post-purchase satisfaction (Delight).
-
----
-
-⚠️ **Would you like me to map out a diagnostic checklist of the most common friction points—such as sales-marketing misalignment or gaps in customer onboarding—and how you can systematically eliminate them to increase your flywheel's momentum?**

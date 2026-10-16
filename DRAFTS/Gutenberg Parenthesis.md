@@ -1,0 +1,1 @@
+Reread Chapter 1 of *Gutenberg Parenthesis* and how he discusses the old printing press connection to modern connectivity
