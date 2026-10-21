@@ -1,3 +1,11 @@
+---
+tags:
+  - evergreen
+  - creative
+  - strategy
+  - business
+---
+
 *A strategist document written to communicate key information about a specific project so that creatives have a blueprint for implementation.*
 
 - creative briefs serve as the primary conduit to program development and brand strategy

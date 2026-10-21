@@ -1,6 +1,8 @@
 ---
 tags:
   - seed
+  - strategy
+  - project-management
 ---
 ## Overview
 Digital asset management (DAM) platforms streamline the content lifecycle by transforming static, siloed file storage into an **integrated Content Supply Chain (CSC)**. Rather than operating as passive archives, modern DAM platforms automate how content moves from initial demand and creation through governance, multi-channel distribution, and performance analysis.

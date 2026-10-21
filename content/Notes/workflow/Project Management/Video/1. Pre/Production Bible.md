@@ -1,3 +1,11 @@
+---
+tags:
+  - video
+  - seed
+  - project-management
+  - strategy
+---
+
 A **production bible** (also called a series bible, TV show bible, or format bible) is a comprehensive reference document that serves as the master blueprint and "single source of truth" for a film, television series, animated project, or multimedia property. It combines creative vision with logistical planning to ensure that writers, directors, producers, designers, and crew members operate with a shared understanding.
 
 In practice, a production bible serves a dual purpose:

@@ -1,3 +1,8 @@
+---
+tags:
+  - tool
+---
+
 Repository of tools to build project pitch decks and look books.
 
 ---

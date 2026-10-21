@@ -1,6 +1,7 @@
 ---
 tags:
   - bud
+  - research
 ---
 
 ## The Essentials

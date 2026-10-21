@@ -1,6 +1,8 @@
 ---
 tags:
   - seed
+  - video
+  - creative
 ---
 Basics on how to use color nodes in Davinci Resolve using previous clips.
 

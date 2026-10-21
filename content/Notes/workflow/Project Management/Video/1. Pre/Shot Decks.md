@@ -1,3 +1,11 @@
+---
+tags:
+  - video
+  - project-management
+  - creative
+  - strategy
+---
+
 ## Overview
 Shot decks are integral to the [[Production Bible]] for any shoot. They lay carry ideas from previous discussions into more tangible shot plans that can be executed in a stepwise fashion. 
 A good shot deck will include real world examples of spaces, creative blocking and available tools, while also including reference notes to creative feel and reference.

@@ -1,3 +1,11 @@
+---
+tags:
+  - bud
+  - python
+  - indesign
+  - script
+---
+
 This script will identify folders across multiple InDesign files with included `var` values and turn them off before exporting.
 ### How to use
 - Create/export a new Extended Script file in VS Code

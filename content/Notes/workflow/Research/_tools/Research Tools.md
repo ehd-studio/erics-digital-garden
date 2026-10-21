@@ -1,6 +1,7 @@
 ---
 tags:
   - evergreen
+  - tool
 ---
 - In a search engine, search your topic of interest and syllabus → [https://syllabusproject.org/](https://syllabusproject.org/)
 

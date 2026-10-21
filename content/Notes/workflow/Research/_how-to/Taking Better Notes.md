@@ -1,6 +1,8 @@
 ---
 tags:
   - bud
+  - research
+  - strategy
 ---
 
 

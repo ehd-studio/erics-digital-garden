@@ -1,6 +1,8 @@
 ---
 tags:
   - evergreen
+  - research
+  - strategy
 ---
 I want to understand how I can more accurately move through the process of gaining deep knowledge on topics and post them to my digital garden. The end goal is to inevitably create a massive knowledge base that can then be used to make more richly linked writing that takes my own knowledge as well as others.
 

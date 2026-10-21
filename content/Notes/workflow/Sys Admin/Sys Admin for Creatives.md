@@ -1,6 +1,7 @@
 ---
 tags:
   - bud
+  - terminal
 ---
 
 The [[Command Line Interface]] is a useful tool for record manipulation, system interactions, task automation, and infrastructure administration for teams.
