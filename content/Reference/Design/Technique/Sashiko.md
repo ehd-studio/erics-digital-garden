@@ -5,10 +5,10 @@ The practice began to fade during Japans industrialization stage as the mending 
 #### Ainu Embroidery
 Though not Sashiko, the Ainu tribe of Northern Japan also had a similar stitch technique called *[[Kaparamip]]*(thin garment). Their technique focused on spiritual protection motifs mended in spiral and thorn designs. It was primarily utilized to imbue ceremonial robes and women for spiritual support. They used high-density chain stitches versus other regional running stitches for clothing reinforcement. 
 
-[Reference 1](https://aplacebetweenthetrees.com/2021/01/13/sashiko-simple-japanese-embroidery/)
+- [Reference 1](https://aplacebetweenthetrees.com/2021/01/13/sashiko-simple-japanese-embroidery/)
 ## Facets of a Pattern
-[Pattern Library](https://www.stitchesontherun.com/tag/patterns/)
-[Generator](https://hitomezashi.com/)
+- [Pattern Library](https://www.stitchesontherun.com/tag/patterns/)
+- [Generator](https://hitomezashi.com/)
 Over time, running stitches came to hold more symbolism and craftsmanship. Sashiko artisans added symbolism to their designs in an effort to embue the clothing with positive intentions to the recipient. Examples of this practice:
 >麻の葉 (Asa no ha) - Hemp leaf design. Hemp grows straight and quick mirroring the symbolism of health, vigor and resilience. Also a lucky omen pattern.
 
@@ -22,4 +22,4 @@ Sashiko thread was devised to be able to break through three layers of fabric wi
 - Medium: Olympus, Cosmo Hidamari, Daruma Medium
 - Thin: Yokota, Daruma Thin, Olympus Thin, Daruma Home #30
 
-[Olympus Fabrics](https://www.snugglymonkey.com/collections/olympus-sashiko-thread)
+- [Olympus Fabrics](https://www.snugglymonkey.com/collections/olympus-sashiko-thread)
