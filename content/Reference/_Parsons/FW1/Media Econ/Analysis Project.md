@@ -115,3 +115,6 @@ I think there could be an interesting case study in examining what happens when 
 - **IP 360** - how different services (music, movies, sports) value creation streams over time
 	- https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2025_E.pdf - Sony Corporate slide (changing integrated media systems)
 	- As a factor of managing volatility on IP?
+## Midterm Discussion - WMG ADA Asia and Latin
+Understanding geographic scopes, leadership teams, and market focuses of each.
+- Model the annual report data and listen to what they say about ADA
