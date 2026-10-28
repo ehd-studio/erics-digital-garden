@@ -25,7 +25,7 @@ tags:
 	- awareness, loyalty, brand image, etc.
 - Flows from Strategic Marketing Plan
 ### 2. Establish communications objective
-- *primary message the cretive should convey to a target audience*
+- *primary message the creative should convey to a target audience*
 - requires depth of insight from consumer
 	- conduct primary research (market research) through quantitative (survey) and qualitative (ethnographies)
 	- use secondary research when applicable
@@ -107,5 +107,49 @@ tags:
 	- Keep the top one or two priorities in line
 	- Focus on all issues will lessen the impact of what you say and what is edited
 	- Stay focused on the majors in order improve deliverables through more focused work.
+## Brief Template Categories
+```
+Title
+//Overview of what this document will be going into.
+
+Organizational Background
+
+---
+Campaign Objective
+	Target Audience/User Persona
+	Insights and Opportunities
+	Success Metrics
+  
+---
+Positioning
+	Message/Promise
+	Support
+  
+---
+Brand Guidelines
+	Tone of Voice
+  
+---
+Channel Strategy
+	Creative Direction
+
+---
+Stakeholder Communication
+	Budget
+	Partnerships
+	Timeline/Milestones
+	Measurement
+//KPIs and how it will be reported to the appropriate stakeholders
+
+	Risks/Constraints
+//Parts of the plan that have forseen issues that could come up and how we plan to mitigate them. Also areas of ambition that will be held back by the current iteration of our Creative Brief
+
+	Approval Protocol
+//Process for communication on execution and who gets the sign off
+
+---
+Next Steps
+
+```
 ## Brief in Practice
 ![[Screenshot 2026-10-20 at 11.46.26 PM.png]]
