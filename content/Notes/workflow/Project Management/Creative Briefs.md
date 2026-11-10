@@ -152,4 +152,6 @@ Next Steps
 
 ```
 ## Brief in Practice
+[Creative Brief in Practice](https://drive.google.com/drive/folders/1--Z1YUL7v1Y_8OrkUqDWtCKN57pYUd5h?fbclid=IwY2xjawKcMFVleHRuA2FlbQIxMABicmlkETFMWEhZOXltUkZyQmZhT1RKAR53Cf2Ow4YOUrugCAYNRd-c8Iz1DABJ1iNC8hHtMaoqVPNWapUGhBem9zSJWg_aem_ZqD1qBSDNIs-p4wUdwy2jQ)
+
 ![[Screenshot 2026-10-20 at 11.46.26 PM.png]]

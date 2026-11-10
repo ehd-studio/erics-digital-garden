@@ -35,3 +35,34 @@
 	- The Age of Extraction
 	- The Attention Economy
 
+---
+## Week 9
+Timeline of TV/Film - Tech Disruption [UsefulCharts](https://usefulcharts.com/blogs/charts/timeline-of-tv-film-industry-consolidation?srsltid=AYCX9vIT828lbipbro6z8MDeDogaa39PwrA2G2Ri54VmgNwbc5qLjoHr)
+- 1910: Silent Film to sound in pictures, Golden Age Radio
+	- Metro, Goldwyn, Mayer merger -> MGM
+	- Fox, 20th Century -> Fox
+	- Lasky, Famous Players, Paramount -> Paramount Pictures
+	- **Non Survivors:** Biograph didn't survive
+- 1930-1950s: Golden Age Hollywood, Birth of Television
+	- MGM, Fox, Paramount, RKO, Universal..
+	- Block booking (theatre chains can't be owned by film companies)
+	- Animation starts
+	- Birth of television
+	- **All survived**
+- 1950-1980: Television, New Hollywood
+	- Television:
+		- NBC, CBS, ABC, Dumont
+		- Disney introduced
+		- Companies couldn't own the creative studios that gave them content
+	- Hollywood
+		- End of Hayes Code (New rating system of G, PG..)
+		- Old guard dead
+- 1980-2020: Cable/Consolidation
+	- Cable TV Transition (100s of channels, hardwired cables instead of antennas)
+	- VHS, DVDs
+	- 2007 - Streaming
+---
+## Week 10
+- check my course schedule
+- Charges for Korean food last week
+- Media as ecosystem

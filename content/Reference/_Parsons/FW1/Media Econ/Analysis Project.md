@@ -118,3 +118,5 @@ I think there could be an interesting case study in examining what happens when 
 ## Midterm Discussion - WMG ADA Asia and Latin
 Understanding geographic scopes, leadership teams, and market focuses of each.
 - Model the annual report data and listen to what they say about ADA
+- Identify how macro forces (big tech) influences your area of interest 
+	- What is the actual technology that could disrupt (go through media macro forces in slideshow - Government Intervention, Consumer Shift, Tech Change, Corporation Consolidation)
