@@ -10,9 +10,9 @@ Adobe provides several distinct extensibility frameworks to meet different devel
 Adobe's legacy JavaScript-based language (ECMAScript 3). It is highly effective for automating one-off tasks, batch processing, and directly accessing the application DOM.
 ### [[UXP]]
 Unified Extensibility Platform is the modern, high-performance platform replacing ExtendScript and CEP. It runs on a modern V8 JavaScript engine and is the recommended path for building new, persistent panel UIs and modern plugins.
-### [[CEP]]
+### [[content/Reference/Digital Production/Adobe Scripting/CEP]]
  Common Extensibility Platform is an older HTML5-based framework used for rich, interactive user interfaces, which is currently being phased out in favor of UXP.
-### [[C++ SDK]]
+### [[content/Reference/Digital Production/Adobe Scripting/C++ SDK]]
 Used for creating native plugins that require deep system integration, performance-critical operations, or headless rendering via Adobe InDesign Server.
 
 **Basic Use Cases** Scripting can be used to handle everything from simple file maintenance to enterprise-level document generation. Common use cases include:

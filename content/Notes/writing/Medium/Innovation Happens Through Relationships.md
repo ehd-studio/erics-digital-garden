@@ -80,3 +80,7 @@ No organization can anticipate every shift. What matters is how people respond w
 That statement stayed with us because it brings together the ideas Cruzata shared throughout our conversation. Innovation depends on understanding people, building trust, listening to audiences, and preparing teams to respond. These practices create room for new ideas while helping organizations navigate uncertainty effectively.  
 
 Technology will continue to change, and audiences will continue to find new ways to engage. Cruzata’s perspective suggests that the ability to learn together may be one of the most valuable capacities an organization can develop.
+
+---
+Related
+[[The Art of Asking Great Questions]], [[The Art of Asking Smarter Questions]], [[The Design Thinking Playbook]]

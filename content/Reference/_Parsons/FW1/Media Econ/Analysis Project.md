@@ -83,40 +83,13 @@ For my case study, I’m considering exploring the intersection between cultural
 More broadly, I’m interested in how these massive streaming platforms might be supplemented (or are already being supplemented) by more localized forms of distribution outside the major platforms. So much of the conversation and investment around media distribution is concentrated around the major streamers, but I’m curious whether there are alternative revenue streams and distribution models that are being underrepresented in the larger picture. What does the future of the creator, studio and distribution chain look like? Is it more localized and outside the typical streamers? What are some examples?  
   
 I think there could be an interesting case study in examining what happens when cultural institutions, artists, and media distribution intersect, particularly around ownership, audience development, IP, and alternative forms of monetization.
-## Analysis Project
-- **Blockbuster effect** - High cost, less creative breadth/competition creates no competition
-	- Once there are a lot, you must consolidate power to force visibility (money)
-
-[Linear TV more resilient than VOD the past three years](https://www.ampereanalysis.com/insight/us-linear-commissioning-proves-more-resilient-as-vod-pulls-back-in-the-market-post-peak-tv?pr=1f62becb1363bc86f7c3bf1f35196457b2d01ba085946a374854b4727f98df29&utm_campaign=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_content=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_medium=newsletter&utm_source=puck-cio&utm_term=f6c6062c9ee001dfa852)
-[Media that wins will be those who control both the phone and the tv](https://www.mediaplaynews.com/omdia-75-percent-of-us-tv-viewers-use-smartphone-to-watch-tv/?pr=1f62becb1363bc86f7c3bf1f35196457b2d01ba085946a374854b4727f98df29&utm_campaign=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_content=What+I%27m+Hearing+-+SUBSCRIBERS+%289%2F21%2F26%29&utm_medium=newsletter&utm_source=puck-cio&utm_term=f6c6062c9ee001dfa852)
-
-
-
-- UBS partnership with Guggenheim and how high value partnerships continue to live on
-	- Are there needs for new ways to interface with art? (AP Watch is very expensive, but how do you keep people engaged at different touch points?)
-- Sponsors (specifically Official/supplier partners and not standard) bring UEFA funding, technology, consumer experience, and retail/media
-	- How are these new experiences built and the platforms leveraged from a UEFA partnership?
-	- How do leagues choose their partners and how do the partners integrate?
-- **Do I want my study to be concerning IP?** - sports, film , toys and how legacy products are being updated/propagated
-	- Toy company (Mattel) is creating a media studio to expand IP
-	- Nintendo creating a media studio?
-
-- Interests:
-	- REMINDER: Where is the money going and why?
-	- Youtube and younger generation habits
-	- Emergent media technology/platforms
-	- Sports and their partnerships
-	- Content licensing in other industries (library value of assets) based on proportions of total revenue. Where the money is going down and where it is going up.
-		- Social structures with usage of licensed IP (Dance moms - TV to Streaming, to Youtube React to Social)
-	- Developing a media asset (something that will generate value without anything being done directly) versus a marketing material (getting eyeballs on your material, but has no longevity) -> looking at NET CASH FLOW, LIBRARY VALUE AND IP VALUE
-		- Reputational value to library value (Mr. Beast translating 'influencer clout' to real library value with Amazon)
-		- Create a corporate strategy that is more strategy than vision (I want an increase in viewers age 16-25 VS I want to be more relevant for the kids)
-
-- **IP 360** - how different services (music, movies, sports) value creation streams over time
-	- https://www.sony.com/en/SonyInfo/IR/library/corporatereport/CorporateReport2025_E.pdf - Sony Corporate slide (changing integrated media systems)
-	- As a factor of managing volatility on IP?
-## Midterm Discussion - WMG ADA Asia and Latin
+### Midterm Discussion - Netflix and Spot
 Understanding geographic scopes, leadership teams, and market focuses of each.
 - Model the annual report data and listen to what they say about ADA
 - Identify how macro forces (big tech) influences your area of interest 
 	- What is the actual technology that could disrupt (go through media macro forces in slideshow - Government Intervention, Consumer Shift, Tech Change, Corporation Consolidation)
+
+## Analysis Project
+- **Is Spotify expansion into new markets viable? Are rural markets accessing streaming for the first time widespread and are the demographics shifting in favor or against Spotify?**
+	- **Local for Global Music Streaming (MENA, APAC)** - Spotify strategy in markets where rural markets are so different
+	- **dispora as an indicator of viability?** Warner discussed how their distribution shifts to larger markets and serving them better. Does this show a demand or infrastructure that spotify could enter?

@@ -66,3 +66,6 @@ Timeline of TV/Film - Tech Disruption [UsefulCharts](https://usefulcharts.com/bl
 - check my course schedule
 - Charges for Korean food last week
 - Media as ecosystem
+
+### 4 lenses of looking at media
+1. The Eyes of the Company - 

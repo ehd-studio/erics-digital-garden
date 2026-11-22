@@ -28,7 +28,7 @@ tags:
 	- 8 1/2
 - *French New Wave*
 	- The Story of a Three-Day Pass
-- - *Wuxia Films*
+- *Wuxia Films*
 	- [The Blade](https://www.youtube.com/watch?v=ttehPZsNcxI&t=29s)
 
 ## Directors
