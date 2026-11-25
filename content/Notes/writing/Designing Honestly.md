@@ -1,6 +1,7 @@
 ---
 tags:
   - evergreen
+  - medium
 ---
 *posted originally in Apr 20, 2021 to [UX Collective](https://uxdesign.cc/designing-honesty-48eb2987b0c)*
 

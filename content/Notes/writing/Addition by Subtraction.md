@@ -1,7 +1,7 @@
 ---
 tags:
   - seed
-  - idea
+  - substack
 ---
 I recently went to a panel for the New Yorker Festival with author Emily Nussbaum and Ethan Hawke as a career retrospective as well as an investigation into the state of independent film today. Hawke's career spans decades starting when he was only 12 and has included everything from blockbuster like *Dead Poets Society*, 5 Oscar nominated performance, independent films, director roles, and now television with *The Lowdown*. Beyond film he's written two books, a graphic novel, and continues to work in Theatre. 
 Their conversation snaked through many topics like his work with Richard Linklater and eventually to Hawke's recent interview discussing his stage background and the importance of the theatre with acting. On that discussion, he brought up an interesting perspective on not only performance, but a larger point on the artist way he was discussing throughout the conversation. 

@@ -1,6 +1,7 @@
 ---
 tags:
-  - bud
+  - medium
+  - seed
 ---
 
 The Community Imperative by David Lieberman

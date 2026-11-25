@@ -2,7 +2,6 @@
 tags:
   - running
 ---
-
 Expected accumulation of fatigue over days, weeks or months of consistent, long-distance training.
 ## Components of Fatigue
 Building this 'positive fatigue' rather than overworking can be attributed to a couple of different, but connected, concepts.

@@ -1,6 +1,7 @@
 ---
 tags:
-  - bud
+  - medium
+  - seed
 ---
 
 [[Hit Makers - The Science of Popularity in an Age of Distraction]]

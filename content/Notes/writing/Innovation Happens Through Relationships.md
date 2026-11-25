@@ -1,6 +1,7 @@
 ---
 tags:
   - evergreen
+  - medium
 ---
 *In conversation with Kristen Cruzata, Chief of Staff at The Athletic*
 
