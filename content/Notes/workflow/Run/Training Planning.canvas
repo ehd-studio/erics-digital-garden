@@ -1,11 +1,12 @@
 {
 	"nodes":[
-		{"id":"08a04a0b65e1cf49","type":"text","text":"Mileage","x":-1220,"y":-420,"width":250,"height":60},
-		{"id":"85344f2d7fc79da4","type":"text","text":"Intensity","x":-900,"y":-420,"width":250,"height":60},
-		{"id":"cdf631a7c8b4ef2e","type":"text","text":"Balance","x":-610,"y":-420,"width":250,"height":60},
-		{"id":"b7d92a4d162e3e3d","type":"text","text":"Consistency","x":-300,"y":-420,"width":250,"height":60},
-		{"id":"b132fdfb1fb9ce7b","type":"text","text":"Recovery","x":0,"y":-420,"width":250,"height":60},
-		{"id":"465013b0eb1e08ee","type":"text","text":"Components of a Running Plan","x":-610,"y":-580,"width":250,"height":60}
+		{"id":"85344f2d7fc79da4","type":"text","text":"Intensity","x":-860,"y":-660,"width":250,"height":60},
+		{"id":"cdf631a7c8b4ef2e","type":"text","text":"Balance","x":-860,"y":-560,"width":250,"height":60},
+		{"id":"b7d92a4d162e3e3d","type":"text","text":"Consistency","x":-860,"y":-460,"width":250,"height":60},
+		{"id":"b132fdfb1fb9ce7b","type":"text","text":"Recovery","x":-860,"y":-360,"width":250,"height":60},
+		{"id":"08a04a0b65e1cf49","type":"text","text":"Mileage","x":-860,"y":-770,"width":250,"height":60},
+		{"id":"465013b0eb1e08ee","type":"text","text":"Components of a Running Plan","x":-1260,"y":-590,"width":250,"height":60},
+		{"id":"5c407c970fced433","x":-540,"y":-710,"width":400,"height":400,"type":"file","file":"content/Reference/Running/Cumulative Fatigue.md"}
 	],
 	"edges":[
 		{"id":"1c15928ffe678724","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"08a04a0b65e1cf49","toSide":"left"},
