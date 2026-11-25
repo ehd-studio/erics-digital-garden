@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"08a04a0b65e1cf49","type":"text","text":"Mileage","x":-1220,"y":-420,"width":250,"height":60},
+		{"id":"85344f2d7fc79da4","type":"text","text":"Intensity","x":-900,"y":-420,"width":250,"height":60},
+		{"id":"cdf631a7c8b4ef2e","type":"text","text":"Balance","x":-610,"y":-420,"width":250,"height":60},
+		{"id":"b7d92a4d162e3e3d","type":"text","text":"Consistency","x":-300,"y":-420,"width":250,"height":60},
+		{"id":"b132fdfb1fb9ce7b","type":"text","text":"Recovery","x":0,"y":-420,"width":250,"height":60},
+		{"id":"465013b0eb1e08ee","type":"text","text":"Components of a Running Plan","x":-610,"y":-580,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"1c15928ffe678724","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"08a04a0b65e1cf49","toSide":"left"},
+		{"id":"62dc65adc5c991eb","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"85344f2d7fc79da4","toSide":"left"},
+		{"id":"34e1bcf8cbe4b05d","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"cdf631a7c8b4ef2e","toSide":"left"},
+		{"id":"8e44e2d07d849ee0","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"b7d92a4d162e3e3d","toSide":"left"},
+		{"id":"72fa32a0ea25244c","fromNode":"465013b0eb1e08ee","fromSide":"right","toNode":"b132fdfb1fb9ce7b","toSide":"left"}
+	]
+}

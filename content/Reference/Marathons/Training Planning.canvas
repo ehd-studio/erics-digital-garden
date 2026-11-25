@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"14ff68d6ac15409e","type":"text","text":"[[Running Economy]]","x":-153,"y":-246,"width":250,"height":60},
-		{"id":"92f5bfe7f6168670","x":-553,"y":-80,"width":400,"height":400,"type":"file","file":"content/Reference/Marathons/VO2 Max.md"}
-	],
-	"edges":[
-		{"id":"1be8499fd3666d16","fromNode":"14ff68d6ac15409e","fromSide":"bottom","toNode":"92f5bfe7f6168670","toSide":"top"}
-	]
-}

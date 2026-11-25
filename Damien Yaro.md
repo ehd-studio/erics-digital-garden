@@ -1,3 +1,5 @@
+https://www.thesiqa.com/ai-music-intelligence-report-midyear-26
+
 - explain your research project (industry analysis between emerging markets/interest in local for global)
 
 1. What term do you prefer other than emerging market?
