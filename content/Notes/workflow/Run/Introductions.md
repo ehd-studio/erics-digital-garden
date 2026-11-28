@@ -33,4 +33,11 @@ Understanding the difference is key to not putting yourself in danger of injury 
 NOTE: I am by no means a Physiologist. This is a *very* basic overview of what parts of the body interact with marathon training
 ### Marathon Muscles
 As we move and expel energy, we use what are called skeletal muscles. These muscles consist of cable like structures of Muscle Fibers that are controlled by motor neurons. Each bundle of muscle fibers contains one of two types: slow-twitch and fast-twitch (of which there are three sub categories). Each bundle contains one muscle fiber, thousands of bundles create a muscle and each bundle is connected to a motor neuron controlled by the central nervous system. 
-In endurance sports like running we are primarily concerned with Type 1 Fibers or [[Slow Twitch Fibers]] 
+In endurance sports like running we are primarily concerned with Type 1 Fibers or [[Slow Twitch Fibers]]
+
+---
+## Brands
+Look good, feel good! Its time to start looking at [[Equipment]]. You know how to shop most likely, but I'm here to give a couple ideas based on my own experience shopping for running equipment. 
+- *Talk with someone about shoes* - The single most important purchase is the shoe. Luckily there are an abundance of options. When beginning training, you may realize what your shoes lack or what they do well. With that knowledge and your training routine, go talk with someone and try on a bunch of shoes. 
+- *Think about purchasing two pairs* - With the repetitive motion of running and the volume you'll be doing it over your training regiment, your shoes will take a beating. Sneakers absorb somewhere between 1.5 and 2 times your body weight every time your foot hits the ground. With that force, the foam on your shoes needs roughly 24-48 hours to decompress before running again. A second pair of running shoes provides an option for those off hours and allows the other pair time to decompress between runs.
+- *Nothing beats a good pair of socks* - Day or night run you'll always need socks. There are a lot of investments to make for run gear, but great socks is a great start and you won't regret getting a couple of good pairs. I love [SOAR](https://www.soarrunning.com/en-us/collections/socks) and [Bandit](https://banditrunning.com/products/ottoman-rib-gridlock-sock-og-logo-black?variant=45637486444694)
